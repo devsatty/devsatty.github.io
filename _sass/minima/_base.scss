@@ -162,6 +162,10 @@ pre {
 /**
  * Wrapper
  */
+ #center{
+   max-width: -webkit-calc(#{$content-post-width} - (#{$spacing-unit} * 2));
+   max-width:         calc(#{$content-post-width} - (#{$spacing-unit} * 2));
+ }
 .wrapper {
   max-width: -webkit-calc(#{$content-post-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-post-width} - (#{$spacing-unit} * 2));
