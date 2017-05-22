@@ -168,5 +168,9 @@ $(document).ready(function(){
          data: $(form).serialize()
       });
       
+      $('.voltar').on('click', function(){
+          document.location.href="/";
+      });
+      
    });
 });
