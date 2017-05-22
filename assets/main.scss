@@ -80,7 +80,7 @@ body{
 }
 
 .post-content{
-    line-height: 24px !important;
+    line-height: 30px !important;
 }
 
 time[itemprop="datePublished"]{
@@ -91,10 +91,11 @@ time[itemprop="datePublished"]{
 }
 
 article.post{
-    width: 50%;
+    max-width: 740px;
     display: block;
     margin: 0 auto;
     padding: 30px 0 0 0;
+    text-align: justify;
 }
 
 #disqus_thread{
@@ -170,6 +171,26 @@ h1.page-heading{
     margin: 5px;
 }
 
+.post-content p{
+    margin-bottom: 15px;
+    font-size: 20px;
+    line-height: 1.58;
+    letter-spacing: -.003em;
+    font-weight: 100;
+}
+
+
+.image .voltar{
+    position: absolute;
+    left: 20px;
+    top: 0;
+    cursor: pointer;
+}
+
+.image .voltar img{
+    height: 50px;
+}
+
 
 .wrapper .home .post-list{
     max-height: 800px;
@@ -239,7 +260,8 @@ p.parceria {
 p.parceria.email{
     font-size: 1.6em;
     font-weight: 800;
-    color: #ba62f3;;
+    color: #ba62f3;
+    margin-top: 15px;
 }
 
 .parceria:last-of-type{
@@ -447,7 +469,7 @@ p.parceria.email{
 }
 
 #modalAgenda .modal-body{
-    width: 38%;
+    width: 42%;
 }
 
 
@@ -644,8 +666,8 @@ body{
     transform: rotate(95deg);
 }
 
-#modalCosplay a{
-    color: #9e048a;;
+.modal a{
+    color: #9e048a;
 }
 
 
