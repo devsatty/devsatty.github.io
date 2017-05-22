@@ -138,7 +138,7 @@ $(document).ready(function(){
         
      $("#contato").click(function() {
         $('html,body').animate({
-          scrollTop: $("#contato-form").offset().top
+          scrollTop: $("p.parceria.email").offset().top
         }, 'slow');
       });
       
