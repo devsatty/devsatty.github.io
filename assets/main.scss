@@ -849,4 +849,19 @@ body{
         width: 100%;
         font-size: 1em !important;
     }
+    
+    #modalSobre .modal-body{
+        width: 65;
+    }
+    
+    #modalSobre .close{
+        right: 22px;
+    }
+    
+    #modalSobre p{
+        
+        font-size: 0.9em;
+        font-weight: 100;
+        text-align: justify;
+    }
 }
