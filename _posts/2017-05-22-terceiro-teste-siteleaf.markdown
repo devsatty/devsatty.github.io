@@ -4,7 +4,6 @@ date: 2017-05-22 03:00:00 Z
 ---
 
 ![cos3.png](/uploads/cos3.png)
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
