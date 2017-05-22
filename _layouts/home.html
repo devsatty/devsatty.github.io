@@ -15,7 +15,30 @@ layout: default
         <li>
           <div class="post-image"></div>
           {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <span class="post-meta">
+              <!--dia-->
+              {{ post.date | date: "%-d" }} 
+              de
+              <!--mês-->
+              {% assign m = post.date | date: "%-m" %}
+              {% case m %}
+                {% when '1' %}Janeiro
+                {% when '2' %}fevereiro
+                {% when '3' %}Março
+                {% when '4' %}Abril
+                {% when '5' %}Maio
+                {% when '6' %}Junho
+                {% when '7' %}Julho
+                {% when '8' %}Agosto
+                {% when '9' %}Setembro
+                {% when '10' %}Outubro
+                {% when '11' %}Novembro
+                {% when '12' %}Dezembro
+              {% endcase %} 
+              de
+              <!--ano-->
+              {{ post.date | date: "%Y" }}
+          </span>
            <div class="bpreview">
              <p class="title">{{ post.title }}</p>
              {{ post.excerpt }}

@@ -13,7 +13,7 @@
   
   <p class="parceria">Para parcerias, eventos ou campanhas publicitárias</p>
   <p class="parceria">entre em contato através do formulário abaixo</p>
-  <form id="contato">
+  <form id="contato-form">
     <select name="assunto" id="assunto" required>
       <option value="">Selecione o assunto</option>
       <option value="evento">Participação em evento</option>
@@ -27,10 +27,10 @@
   <div class="hr"></div>
   
   <div class="social">
-    <a href="https://www.youtube.com/user/PenseGeek" target="_blank"><img src="assets/img/youtube.svg"></img></a>
-    <a href="https://www.facebook.com/CanalPenseGeek" target="_blank"><img src="assets/img/facebook.svg"></img></a>
-    <a href="https://twitter.com/_satty" target="_blank"><img src="assets/img/twitter.svg"></img></a>
-    <a href="https://www.instagram.com/_satty/" target="_blank"><img src="assets/img/instagram.svg"></img></a>
+    <a href="https://www.facebook.com/CanalPenseGeek" target="_blank"><img src="assets/img/facebook.png"></img></a>
+    <a href="https://www.instagram.com/_satty/" target="_blank"><img src="assets/img/instagram.png"></img></a>
+    <a href="https://twitter.com/_satty" target="_blank"><img src="assets/img/twitter.png"></img></a>
+    <a href="https://www.youtube.com/user/PenseGeek" target="_blank"><img src="assets/img/youtube.png"></img></a>
   </div>
 </div>
 
@@ -38,37 +38,27 @@
   <p>Blog Mariana "Satty" Delveccio | Desenvolvido por <a href="http://dotpegaso.github.io" target="_blank">dotpegaso</a>  </p>
 </div>
 
-
-
-<div id="modalYoutube" hidden>
+<div id="modalYoutube" class="modal" hidden>
+  <div class="overlay"></div>
   <section class="modal-body">
+    <button class="close">X</button>
     <img class="canal-svg" src="assets/img/pensegeek.svg"></img>
     <div class="youmax"></div>
   </section>
 </div>
 
-<div id="modalAgenda" hidden>
+<div id="modalAgenda" class="modal" hidden>
+  <div class="overlay"></div>
   <div class="modal-body">
+    <button class="close">X</button>
     <img class="canal-svg agenda" src="assets/img/calendar.svg"></img>
     <div class="dt">
-      <div class="box">
-    <div class="data">
-      <p>21 de Maio</p>
-    </div>
-    <div class="detalhes">
-      <span>Goyta Anime - Campos dos Goytacazes - RJ</span>
-      <br>
-      <a href="https://otakontro.com.br">Visite a página do evento</a>
-    </div>
-    </div>
       <div class="box">
       <div class="data">
         <p>04 de Junho</p>
       </div>
       <div class="detalhes">
-        <span>Anime Poços - Poços de Caldas - MG</span>
-        <br>
-        <a href="https://otakontro.com.br">Visite a página do evento</a>
+        <a href="https://www.facebook.com/AnimePocos" target="_blank">Anime Poços - Poços de Caldas - MG</a>
       </div>
       </div>
       <div class="box">
@@ -76,9 +66,7 @@
         <p>10 de Junho</p>
       </div>
       <div class="detalhes">
-        <span>New Geek Festival - Aracaju - SE</span>
-        <br>
-        <a href="https://otakontro.com.br">Visite a página do evento</a>
+        <a href="https://www.facebook.com/newgeekfestival/" target="_blank">New Geek Festival - Aracaju - SE</a>
       </div>
       </div>
       <div class="box">
@@ -86,9 +74,7 @@
       <p>08 de Julho</p>
     </div>
     <div class="detalhes">
-      <span>Anime Friends - São Paulo - SP</span>
-      <br>
-      <a href="https://otakontro.com.br">Visite a página do evento</a>
+      <a href="http://www.animefriends.com.br/" target="_blank">Anime Friends - São Paulo - SP</a>
     </div>
     </div>
       <div class="box">
@@ -96,9 +82,7 @@
           <p>16 de Julho</p>
         </div>
         <div class="detalhes">
-          <span>SANA - Fortaleza - CE</span>
-          <br>
-          <a href="https://otakontro.com.br">Visite a página do evento</a>
+          <a href="http://www.portalsana.com.br/" target="_blank">SANA - Fortaleza - CE</a>
         </div>
       </div>
       <div class="box">
@@ -106,9 +90,7 @@
           <p>05 e 06 de Agosto</p>
         </div>
         <div class="detalhes">
-          <span>SAGA - Natal - RN</span>
-          <br>
-          <a href="https://otakontro.com.br">Visite a página do evento</a>
+          <a href="https://sagaentretenimento.com.br/" target="_blank">SAGA - Natal - RN</a>
         </div>
       </div>
       <div class="box">
@@ -116,9 +98,7 @@
           <p>09 e 10 de Setembro</p>
         </div>
         <div class="detalhes">
-          <span>Anime Gakuen - Florianopolis - SC</span>
-          <br>
-          <a href="https://otakontro.com.br">Visite a página do evento</a>
+          <a href="http://animegakuen.com.br/home" target="_blank">Anime Gakuen - Florianopolis - SC</a>
         </div>
       </div>
       <div class="box">
@@ -126,9 +106,7 @@
           <p>07 e 08 de Outubro</p>
         </div>
         <div class="detalhes">
-          <span>Geek Prime BH - Belo Horizonte - MG</span>
-          <br>
-          <a href="https://otakontro.com.br">Visite a página do evento</a>
+          <a href="https://www.facebook.com/FestivalGeekPrime/" target="_blank">Geek Prime BH - Belo Horizonte - MG</a>
         </div>
       </div>
       
@@ -137,15 +115,64 @@
   </div>
 </div>
 
-<div id="modalSobre" hidden>
+<div id="modalCosplay" class="modal" hidden>
+  <div class="overlay"></div>
+  <div class="modal-body">
+    <button class="close">X</button>
+    <img class="canal-svg agenda" src="assets/img/cosplay.svg"></img>
+    <div class="dt">
+      
+      
+      <div class="box">
+          <img src="/assets/img/cos1.png"></img>
+          <a href="https://www.facebook.com/pg/CanalPenseGeek/photos/?tab=album&album_id=695568703907584" target="_blank">Black Cat (Spider-Man)</a>
+      </div>
+      
+      <div class="box">
+          <img src="/assets/img/cos2.png"></img>
+          <a href="https://www.facebook.com/187952611335865/photos/?tab=album&album_id=696086517189136" target="_blank">Chii (Chobits)</a>
+      </div>
+      
+      <div class="box">
+          <img src="/assets/img/cos3.png"></img>
+          <a href="https://www.facebook.com/187952611335865/photos/?tab=album&album_id=251467494984376" target="_blank">Euphemia (Code Geass)</a>
+      </div>
+      
+      <div class="box">
+          <img src="/assets/img/cos4.png"></img>
+          <a href="https://www.facebook.com/pg/CanalPenseGeek/photos/?tab=album&album_id=226526994145093" target="_blank">Rei (Highschool of the Dead)</a>
+      </div>
+      
+      <div class="box">
+          <img src="/assets/img/cos5.png"></img>
+          <a href="https://www.facebook.com/pg/CanalPenseGeek/photos/?tab=album&album_id=451756071622183" target="_blank">Hera Venenosa (Batman)</a>
+      </div>
+      
+      <div class="box">
+          <img src="/assets/img/cos6.png"></img>
+          <a href="https://www.facebook.com/187952611335865/photos/?tab=album&album_id=201827569948369" target="_blank">Lucifer (Umineko no Naku Koro ni)</a>
+      </div>
+      
+      <div class="box">
+          <img src="/assets/img/cos7.png"></img>
+          <a href="https://www.facebook.com/187952611335865/photos/?tab=album&album_id=201756343288825" target="_blank">Cosplays Antigos</a>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+<div id="modalSobre" class="modal"hidden>
+  <div class="overlay"></div>
   <section class="modal-body">
+    <button class="close">X</button>
+    <img src="assets/img/flower.png" class="flower"></img>
     <img class="canal-svg satty" src="assets/img/satty.jpg"></img>
     <h1>Mariana Delveccio</h1>
     <p>Também conhecida como Satty, é estudante de direito, Youtuber e streamer - além de já ter trabalhado no passado como host de canais empresariais de games, suporte para membros de networks e muitas outras coisas. </p>
     <p>Descontraída e apaixonada pela cultura pop/geek, por Mangás, animes, cosplay e jogos desde criança por influência do pai, usa toda sua paixão para produzir seu conteúdo. Além disso é cosplayer apaixonada há mais de 7 anos e frequenta o meio desde 2006.</p>
   </section>
 </div>
-
 
  
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>

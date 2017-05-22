@@ -168,13 +168,11 @@ h1.page-heading{
     margin-top: 0 !important;
     display: inline-block !important;
     margin: 5px;
-    
-    
 }
 
 
 .wrapper .home .post-list{
-    height: 800px;
+    max-height: 800px;
     overflow-y: hidden;
     margin-bottom: 50px;
     transition-duration: .3s;
@@ -182,34 +180,34 @@ h1.page-heading{
 
 .mostrarmais{
     display: none;
-    margin: 0 55px 0 auto;
+    margin: 0 0 0 auto;
     padding: 15px 20px;
     margin-top: -50px;
     font-size: .9em;
     border: none;
     background: #FFF;
-    
     border-radius: 3px;
     cursor: pointer;
     margin-bottom: 80px;
+    opacity: .6;
 }
 
-#contato {
+#contato-form {
     text-align: center;
     margin-bottom: 100px;
 }
 
-#contato select{
-    border: none;
-    background: #333;
-    color: #FFF;
+#contato-form select{
+    background: #FFF;
+    color: #333;
+    border: 1px solid;
     padding: 10px 20px;
     border-radius: 3px;
     margin-right: 15px;
     cursor: pointer;
 }
 
-#contato input{
+#contato-form input{
     border: none;
     border-bottom: 1px solid;
     padding: 10px 5px;
@@ -217,14 +215,15 @@ h1.page-heading{
     outline: none;
 }
 
-#contato button{
+#contato-form button{
     padding: 10px 30px;
-    border: none;
-    background: #333;
-    color: #FAFAFA;
+     background: #FFF;
+    color: #333;
+    border: 1px solid;
     border-radius: 3px;
     margin-left: 10px;
     cursor: pointer;
+    font-weight: 700;
 }
 
 
@@ -362,22 +361,63 @@ p.parceria {
 }
 
 
-#modalYoutube,
-#modalAgenda,
-#modalSobre{
+.overlay{
     position: fixed;
     height: 100%;
     background: rgba(0,0,0, .4);
-    z-index: 9999;
     width: 100%;
     top: 0;
     left: 0;
-    display: none;
+}
+
+
+#modalYoutube .modal-body::before{
+    content: 'Youtube';
+}
+#modalAgenda .modal-body::before{
+    content: 'Agenda';
+}
+#modalSobre .modal-body::before{
+    content: 'Sobre';
+}
+#modalCosplay .modal-body::before{
+    content: 'Cosplay';
+}
+
+#modalYoutube .modal-body::before,
+#modalAgenda .modal-body::before,
+#modalSobre .modal-body::before,
+#modalCosplay .modal-body::before{
+    position: absolute;
+    top: -34px;
+    background: #FFF;
+    padding: 10px 20px;
+    right: 0px;
+    color: #333;
+    border-radius: 4px;
+    font-weight: 700;
+}
+
+#modalCosplay .dt{
+    max-height: 70vh;
+    overflow-y: scroll;
+    padding: 20px 30px 20px 20px;
+}
+
+#modalCosplay .box{
+    margin-bottom: 20px;
+}
+
+#modalCosplay .dt .box img{
+    height: 100px;
+    border-radius: 40%;
+    margin-right: 15px;
 }
 
 #modalYoutube .modal-body,
 #modalAgenda .modal-body,
-#modalSobre .modal-body{
+#modalSobre .modal-body,
+#modalCosplay .modal-body{
     background: #FFF;
     position: absolute;
     left: 50%;
@@ -436,7 +476,6 @@ p.parceria {
     padding: 8px 20px 8px 0;
     font-size: 1.2em;
     color: #444;
-    border-right: 2px solid #000;
     width: 190px;
 }
 
@@ -453,6 +492,7 @@ p.parceria {
 #modalAgenda .modal-body .detalhes{
     display: inline-block;
     margin-left: 20px;
+    padding-top: 10px;
 }
 
 body::-webkit-scrollbar {
@@ -464,6 +504,10 @@ body::-webkit-scrollbar {
 }
 
 #modalAgenda .modal-body .dt::-webkit-scrollbar {
+    width: 6px;
+}
+
+#modalCosplay .modal-body .dt::-webkit-scrollbar {
     width: 6px;
 }
 
@@ -482,7 +526,7 @@ body::-webkit-scrollbar {
 
 
 .yl-item-wrapper{
-    width: calc(100% / 2.15);
+    width: calc(100% / 3.3);
     display: inline-block !important;
     margin: 10px !important;
 }
@@ -580,4 +624,187 @@ body::-webkit-scrollbar {
 
 body{
     font-family: 'Ubuntu', sans-serif;
+}
+
+.flower{
+    position: absolute;
+    height: 240px;
+    top: -46px;
+    left: -30px;
+    z-index: -999;
+    opacity: 0.3;
+    transform: rotate(95deg);
+}
+
+#modalCosplay a{
+    color: #9e048a;;
+}
+
+
+.close {
+    position: absolute;
+    color: #FFF;
+    top: -33px;
+    right: -45px;
+    font-size: 1.5em;
+    font-weight: 800;
+    cursor: pointer;
+    border: none;
+    background: transparent;
+}
+
+
+.hamburg{
+    display: none;
+}
+
+@media screen and (max-width: 480px){
+    
+    .hamburg{
+        display: block;
+        height: 100%;
+        width: 30px;
+        display: block;
+        margin: 0 auto 20px auto;
+    }
+   
+    .logo img{
+        width: 90%;
+        padding: 20px 0 0 0;
+    }
+    
+    .navbar{
+        display: none;
+    }
+    
+    .mostrarmais{
+        margin: 0 auto 30px auto;
+    }
+    
+    .social-feed-element{
+        width: 45%;
+    }
+    
+    #center{
+        width: 95%;
+    }
+    
+    .post-list li{
+        width: 100%;
+    }
+    
+    .wrapper{
+    	max-width: 100% !important;
+        width: 100%;
+        padding: 0;
+    }
+    
+    .post-list > a{
+        margin: 0;
+    }
+    
+    .post-list li{
+        padding: 200px 0 40px 0;
+        margin: 0 !important;
+        box-shadow: none;
+    }
+    
+    
+    .home{
+        padding: 0 10px;
+    }
+    
+    .social-feed-container{
+        height: 100%;
+    }
+    
+    .social-feed-element{
+        height: 150px;
+    }
+    
+    #contato-form #assunto, 
+    #contato-form input,
+    #contato-form button{
+        display: block;
+        width: 100%;
+        margin: 30px 0;
+    }
+    
+    #contato-form input{
+        padding: 10px 0;
+    }
+    
+    .social img {
+    height: 30px;
+    margin: 0 10px;
+    }
+    
+    .page-content{
+        padding: 0;
+    }
+    
+    .wrapper .home .post-list,
+    #contato-form{
+        margin-bottom: 0;
+    }
+    
+    p.parceria{
+        font-size: 1.3em;
+    }
+    
+    .navbar a {
+        color: #222;
+        padding: 0 10px;
+        font-size: 1em;
+        display: block;
+        margin: 15px 0;
+    }
+    .modal-body::before{
+        display: none;
+    }
+    
+     .modal-body{
+         height: 65vh !important;
+         width: 95% !important;
+     }
+     
+     .canal-svg{
+         display: none;
+     }
+     
+     .close{
+         right: 0;
+     }
+     
+     #modalCosplay .dt{
+         max-height: 90%;
+         padding: 10px;
+    font-size: .8em;
+
+     }
+     
+     #modalCosplay .dt .box img{
+         height: 70px;
+     }
+     
+     #modalAgenda .modal-body .box{
+         margin: 5px 0;
+         padding: 0 5px;
+     }
+     
+     #modalAgenda .modal-body p {
+        display: block;
+        padding: 0;
+        font-size: 1em;
+        color: #444;
+        width: 100%;
+        margin: 0;
+    }
+    
+    #modalAgenda .modal-body .detalhes {
+    display: block;
+    margin-left: 0;
+    padding: 0 0 10px 0;
+    width: 100%;
+    }
 }

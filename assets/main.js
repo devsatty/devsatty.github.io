@@ -18,7 +18,7 @@ $(document).ready(function(){
             defaultTab:"Uploads",         //Uploads|Playlists|Featured
             videoDisplayMode:"popup",       //popup|link|inline
 
-            maxResults:"8",
+            maxResults:"9",
             autoPlay:false,
             displayFirstVideoOnLoad:true,       //for inline video display mode only
             
@@ -88,32 +88,32 @@ $(document).ready(function(){
                     console.log('zero');
                     var tt = ($('.post-link').length * 320) / 2.5;
                     if($('.wrapper .home .post-list').height() < tt){
-                        $('.wrapper .home .post-list').css({"height" : $('.wrapper .home .post-list').height() + 330 + "px"});
+                        $('.wrapper .home .post-list').css({"max-height" : "unset"});
+                        $('.wrapper .home .post-list').css({"height" : "100%"});
                     }
                     break;
                 case 1:
                     console.log('um');
+                    var tt = ($('.post-link').length * 320) / 2.3;
                      if($('.wrapper .home .post-list').height() < tt){
-                        $('.wrapper .home .post-list').css({"height" : $('.wrapper .home .post-list').height() + 300 + "px"});
+                         $('.wrapper .home .post-list').css({"max-height" : "unset"});
+                        $('.wrapper .home .post-list').css({"height" : "100%"});
                      }
                     break;
                 case 2:
                     console.log('dois');
                      if($('.wrapper .home .post-list').height() < tt){
-                        $('.wrapper .home .post-list').css({"height" : $('.wrapper .home .post-list').height() + 330 + "px"});
+                       $('.wrapper .home .post-list').css({"max-height" : "unset"});
+                        $('.wrapper .home .post-list').css({"height" : "100%"});
                      }
                     break;
             }
             
-            
         });
-        
-        
         
         particlesJS.load('particles-js', 'assets/particlesjs-config.json', function() {
           console.log('callback - particles.js config loaded');
         });
-        
         
         $('#youtube').on('click', function(){
             $('#modalYoutube').fadeIn('fast');
@@ -123,23 +123,50 @@ $(document).ready(function(){
             $('#modalAgenda').fadeIn('fast');
         });
         
+         $('#cosplay').on('click', function(){
+            $('#modalCosplay').fadeIn('fast');
+        });
+        
         $('#sobre').on('click', function(){
             $('#modalSobre').fadeIn('fast');
         });
         
-        $('#modalYoutube').on('click', function(e){
-            console.log(e.target.nodeName);
-           $('#modalYoutube').fadeOut('fast');
-        });
+        $('.overlay').click(function(){ $('.modal').fadeOut('fast') });
         
-        $('#modalAgenda').on('click', function(e){
-            console.log(e.target.nodeName);
-           $('#modalAgenda').fadeOut('fast');
-        });
+        $('.close').click(function(){  $('.modal').fadeOut('fast')  });
         
-        $('#modalSobre').on('click', function(e){
-            console.log(e.target.nodeName);
-           $('#modalSobre').fadeOut('fast');
+        
+     $("#contato").click(function() {
+        $('html,body').animate({
+          scrollTop: $("#contato-form").offset().top
+        }, 'slow');
+      });
+      
+      $('.hamburg').click(function(){
+          $('.navbar').slideToggle();
+      })
+       
+       
+       if($('body').width() < 500){
+           $('.post-list li.first').removeClass('first');
+       }
+       
+       
+        $('body').on('click', '.social-feed-element', function(){
+            window.open('https://instagram.com/_satty','_newtab');
         });
        
+       
+      $('form').on('submit', function(e){
+      e.preventDefault();
+      e.stopPropagation();
+      var form = $(this);
+      
+      $.ajax({
+         url: '/assets/mail.php',
+         method: 'POST',
+         data: $(form).serialize()
+      });
+      
+   });
 });
