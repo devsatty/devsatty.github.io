@@ -446,8 +446,6 @@ p.parceria.email{
     margin-right: 15px;
 }
 
-
-
 .modal-body{
     background: #FFF;
     position: absolute;
@@ -462,12 +460,21 @@ p.parceria.email{
     padding: 20px;
 }
 
+
+
 #modalParceiros .canal-svg{
-    left: -200px;
+    left: -150px;
 }
 
 #modalParceiros img{
-    height: 80px;
+    width: 100px;
+    display: block;
+    margin-bottom: 15px;
+}
+
+#modalParceiros .box:first-of-type{
+    border-bottom: 1px solid #DDD;
+    padding-bottom: 10px;
 }
 
 #modalYoutube .modal-body{
