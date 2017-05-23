@@ -183,7 +183,7 @@ h1.page-heading{
 .image .voltar{
     position: absolute;
     left: 20px;
-    top: 0;
+    top: 10px;
     cursor: pointer;
 }
 
@@ -414,10 +414,11 @@ p.parceria.email{
     content: 'Cosplay';
 }
 
-#modalYoutube .modal-body::before,
-#modalAgenda .modal-body::before,
-#modalSobre .modal-body::before,
-#modalCosplay .modal-body::before{
+#modalParceiros .modal-body::before{
+    content: 'Parceiros';
+}
+
+.modal-body::before{
     position: absolute;
     top: -34px;
     background: #FFF;
@@ -434,7 +435,8 @@ p.parceria.email{
     padding: 20px 30px 20px 20px;
 }
 
-#modalCosplay .box{
+#modalCosplay .box,
+#modalParceiros .box{
     margin-bottom: 20px;
 }
 
@@ -444,10 +446,7 @@ p.parceria.email{
     margin-right: 15px;
 }
 
-#modalYoutube .modal-body,
-#modalAgenda .modal-body,
-#modalSobre .modal-body,
-#modalCosplay .modal-body{
+.modal-body{
     background: #FFF;
     position: absolute;
     left: 50%;
@@ -461,7 +460,6 @@ p.parceria.email{
     height: 80vh;
 }
 
-
 #modalAgenda .modal-body,
 #modalSobre .modal-body{
     width: 35%;
@@ -472,7 +470,6 @@ p.parceria.email{
     width: 42%;
 }
 
-
 #modalSobre .modal-body{
     padding: 30px;
 }
@@ -481,6 +478,11 @@ p.parceria.email{
     text-align: center;
     font-size: 2em;
     font-weight: 300;
+}
+
+#modalParceiros p em{
+    font-style: normal;
+    font-weight: 800;
 }
 
 #modalSobre .modal-body h1{
@@ -864,5 +866,9 @@ body{
         font-size: 0.9em;
         font-weight: 100;
         text-align: justify;
+    }
+    
+    .post-title{
+        font-size: 3em;
     }
 }
