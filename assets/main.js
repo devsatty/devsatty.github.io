@@ -1,8 +1,5 @@
 $(document).ready(function(){
     
-        $('.voltar').on('click', function(){
-          document.location.href="https://devsatty.github.io";
-      });
     
         $($('.post-list li')[0]).addClass('first');
         
