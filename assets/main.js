@@ -1,5 +1,6 @@
 $(document).ready(function(){
     
+    
         $($('.post-list li')[0]).addClass('first');
         
         setTimeout(function(){
@@ -131,21 +132,23 @@ $(document).ready(function(){
             $('#modalSobre').fadeIn('fast');
         });
         
+        $('#parceiros').on('click', function(){
+            $('#modalParceiros').fadeIn('fast');
+        });
+        
         $('.overlay').click(function(){ $('.modal').fadeOut('fast') });
         
         $('.close').click(function(){  $('.modal').fadeOut('fast')  });
         
-        
-     $("#contato").click(function() {
-        $('html,body').animate({
-          scrollTop: $("#contato-form").offset().top
-        }, 'slow');
-      });
+        $("#contato").click(function() {
+            $('html,body').animate({
+                scrollTop: $("p.parceria.email").offset().top
+            }, 'slow');
+        });
       
-      $('.hamburg').click(function(){
+        $('.hamburg').click(function(){
           $('.navbar').slideToggle();
-      })
-       
+        })
        
        if($('body').width() < 500){
            $('.post-list li.first').removeClass('first');
@@ -157,16 +160,5 @@ $(document).ready(function(){
         });
        
        
-      $('form').on('submit', function(e){
-      e.preventDefault();
-      e.stopPropagation();
-      var form = $(this);
       
-      $.ajax({
-         url: '/assets/mail.php',
-         method: 'POST',
-         data: $(form).serialize()
-      });
-      
-   });
 });

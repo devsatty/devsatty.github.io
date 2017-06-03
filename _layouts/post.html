@@ -5,6 +5,9 @@ comments: true
 {% include head.html %}
 
 <div class="image">
+  <div class="voltar">
+    <img src="/assets/img/back.png"></img>
+  </div>
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
@@ -51,7 +54,7 @@ comments: true
 </article>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-<script type="text/javascript" src="assets/main.js"></script>
+
 
 <script>
   $('.image').css({'background-image' : 'url(' + $('.post-content > p > img').attr('src') + ')', 'background-repeat' : 'no-repeat', 'background-size' : 'cover'});
@@ -62,6 +65,12 @@ comments: true
 
 
 <script>
+
+$(document).ready(function(){
+        $('.voltar').on('click', function(){
+          document.location.href="https://devsatty.github.io";
+      });
+});
 
 var disqus_config = function () {
 this.page.url = 'https://marianadelveccio.com.br';  // Replace PAGE_URL with your page's canonical URL variable

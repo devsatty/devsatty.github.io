@@ -79,7 +79,7 @@ body{
 }
 
 .post-content{
-    line-height: 24px !important;
+    line-height: 30px !important;
 }
 
 time[itemprop="datePublished"]{
@@ -90,10 +90,11 @@ time[itemprop="datePublished"]{
 }
 
 article.post{
-    width: 50%;
+    max-width: 740px;
     display: block;
     margin: 0 auto;
     padding: 30px 0 0 0;
+    text-align: justify;
 }
 
 #disqus_thread{
@@ -169,6 +170,26 @@ h1.page-heading{
     margin: 5px;
 }
 
+.post-content p{
+    margin-bottom: 15px;
+    font-size: 20px;
+    line-height: 1.58;
+    letter-spacing: -.003em;
+    font-weight: 100;
+}
+
+
+.image .voltar{
+    position: absolute;
+    left: 20px;
+    top: 10px;
+    cursor: pointer;
+}
+
+.image .voltar img{
+    height: 50px;
+}
+
 
 .wrapper .home .post-list{
     max-height: 800px;
@@ -227,7 +248,11 @@ h1.page-heading{
 
 
 p.parceria {
+<<<<<<< HEAD
     width: 400px;
+=======
+    width: 420px;
+>>>>>>> 03b7df76c9cffb179f8de3e829e74c5f27c676d6
     margin: 0 auto;
     font-size: 1.2em;
     text-align: center;
@@ -238,7 +263,12 @@ p.parceria {
 p.parceria.email{
     font-size: 1.6em;
     font-weight: 800;
+<<<<<<< HEAD
     color: #ba62f3;;
+=======
+    color: #ba62f3;
+    margin-top: 15px;
+>>>>>>> 03b7df76c9cffb179f8de3e829e74c5f27c676d6
 }
 
 .parceria:last-of-type{
@@ -391,10 +421,11 @@ p.parceria.email{
     content: 'Cosplay';
 }
 
-#modalYoutube .modal-body::before,
-#modalAgenda .modal-body::before,
-#modalSobre .modal-body::before,
-#modalCosplay .modal-body::before{
+#modalParceiros .modal-body::before{
+    content: 'Parceiros';
+}
+
+.modal-body::before{
     position: absolute;
     top: -34px;
     background: #FFF;
@@ -411,7 +442,8 @@ p.parceria.email{
     padding: 20px 30px 20px 20px;
 }
 
-#modalCosplay .box{
+#modalCosplay .box,
+#modalParceiros .box{
     margin-bottom: 20px;
 }
 
@@ -421,10 +453,7 @@ p.parceria.email{
     margin-right: 15px;
 }
 
-#modalYoutube .modal-body,
-#modalAgenda .modal-body,
-#modalSobre .modal-body,
-#modalCosplay .modal-body{
+.modal-body{
     background: #FFF;
     position: absolute;
     left: 50%;
@@ -434,10 +463,30 @@ p.parceria.email{
     padding: 10px 5px 10px 0;
 }
 
+#modalParceiros .modal-body{
+    padding: 20px;
+}
+
+
+
+#modalParceiros .canal-svg{
+    left: -150px;
+}
+
+#modalParceiros img{
+    width: 100px;
+    display: block;
+    margin-bottom: 15px;
+}
+
+#modalParceiros .box:first-of-type{
+    border-bottom: 1px solid #DDD;
+    padding-bottom: 10px;
+}
+
 #modalYoutube .modal-body{
     height: 80vh;
 }
-
 
 #modalAgenda .modal-body,
 #modalSobre .modal-body{
@@ -446,9 +495,8 @@ p.parceria.email{
 }
 
 #modalAgenda .modal-body{
-    width: 38%;
+    width: 42%;
 }
-
 
 #modalSobre .modal-body{
     padding: 30px;
@@ -458,6 +506,11 @@ p.parceria.email{
     text-align: center;
     font-size: 2em;
     font-weight: 300;
+}
+
+#modalParceiros p em{
+    font-style: normal;
+    font-weight: 800;
 }
 
 #modalSobre .modal-body h1{
@@ -643,8 +696,8 @@ body{
     transform: rotate(95deg);
 }
 
-#modalCosplay a{
-    color: #9e048a;;
+.modal a{
+    color: #9e048a;
 }
 
 
@@ -821,5 +874,32 @@ body{
         margin: 0 auto;
         padding: 30px 0 0 0;
         text-align: justify;
+<<<<<<< HEAD
+=======
+    }
+    
+    p.parceria{
+        width: 100%;
+        font-size: 1em !important;
+    }
+    
+    #modalSobre .modal-body{
+        width: 65;
+    }
+    
+    #modalSobre .close{
+        right: 22px;
+    }
+    
+    #modalSobre p{
+        
+        font-size: 0.9em;
+        font-weight: 100;
+        text-align: justify;
+    }
+    
+    .post-title{
+        font-size: 3em;
+>>>>>>> 03b7df76c9cffb179f8de3e829e74c5f27c676d6
     }
 }
