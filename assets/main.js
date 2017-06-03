@@ -44,8 +44,8 @@ $(document).ready(function(){
             instagram:{
                 accounts: ['@_satty'],  //Array: Specify a list of accounts from which to pull posts
                 limit: 14,                                    //Integer: max number of posts to load
-                client_id: '0e5bfdec09394af7ba646c0ce6b021c9',
-                access_token: '32061117.0e5bfde.fd76f83f9db249cd8a208fb35672ec63',
+                client_id: 'f9cea9afc6734285b54ad328ec640a63',
+                access_token: '32061117.f9cea9a.1d75e99d681a4b0e958165f1821ff36b',
             },
 
             // GENERAL SETTINGS
