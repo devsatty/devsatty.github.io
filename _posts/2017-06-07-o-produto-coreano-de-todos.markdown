@@ -15,6 +15,8 @@ tags:
 - egg pore
 ---
 
+[IMG_3530-07-06-17-10-03.JPG](/uploads/IMG_3530-07-06-17-10-03.JPG)
+
 *"Oi meninas, turru boum?"* E aí meus pãezinhos, como vocês estão?
 
 Hoje quis trazer um review de um produto que é barato e eu estou usando há **ANOS**. Usar por anos + Ser bom + Ser barato = amor eterno.
