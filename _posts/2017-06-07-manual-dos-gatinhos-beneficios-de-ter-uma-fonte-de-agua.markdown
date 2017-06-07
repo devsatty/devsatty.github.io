@@ -1,6 +1,14 @@
 ---
 title: 'Manual dos gatinhos: Benefícios de ter uma fonte de água.'
 date: 2017-06-07 14:29:00 Z
+categories:
+- pets
+tags:
+- animal
+- gato
+- cuidados
+- bebedouro
+- pet
 ---
 
 [IMG_3562-07-06-17-11-39-1.JPG](/uploads/IMG_3562-07-06-17-11-39-1.JPG)
