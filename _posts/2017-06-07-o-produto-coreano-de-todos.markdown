@@ -42,8 +42,8 @@ Ele não tem PRIMER no nome, na verdade ele tem balm - que é tipo uma "manteiga
 
 Falando no Porefessional, existem várias e várias resenhas comparando os dois porquê como disse acima, eles são bem parecidos! Pra mim o Egg Pore vence porquê eu sinto que ele hidrata mais a minha pele e pelo custo-benefício. E talvez seja tudo coisa da minha cabeça, mas eu sempre tive a impressão de que o Porefessional, que o produto em si tem uma corzinha meio bege, deixava um rastro de cor no meu rosto, enquanto o Egg Pore não faz isso. Talvez seja porquê tenho o tom de pele de uma pessoa morta, mas isso a gente releva. Pra mim, entre os dois, o vencedor sem dúvida é o Egg Pore.
 
-![IMG_3533-07-06-17-10-03.JPG](/uploads/IMG_3533-07-06-17-10-03.JPG)
 ![IMG_3532-07-06-17-10-03.JPG](/uploads/IMG_3532-07-06-17-10-03.JPG)
+![IMG_3533-07-06-17-10-03.JPG](/uploads/IMG_3533-07-06-17-10-03.JPG)
 
 Pra mostrar bem a "eficiência" dele eu tirei essas fotos das minhas mãos. Na de cima, eu passei bem nessa parte de cima da mão e pode ver que na área você vê bem menos dos "porinhos" e linhas da minha mão. Isso no rosto parece uma massa corrida dos deuses que tira todos os seus pequenos buraquinhos e imperfeições deixando a pele incrível pra maquiagem, aprece um blur do Photoshop na vida real. Na foto de baixo não tem produto algum, e você pode ver bem mais detalhes da pele.
 
