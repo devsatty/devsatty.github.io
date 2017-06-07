@@ -1,6 +1,6 @@
 ---
 title: O melhor produto coreano de TODOS!
-date: 2017-06-07 10:32:00 Z
+date: 2017-06-07 10:33:00 Z
 categories:
 - beleza
 tags:
