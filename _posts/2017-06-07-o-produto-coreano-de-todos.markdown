@@ -52,6 +52,7 @@ Por fim, não posso falar como é incrível e maravilhoso essa belezinha. Você 
 Enfim, espero que tenham gostado do meu primeiro post bem *blogayrinha* vou trazer bem mais reviews deste tipo e de jogos, livros, filmes e o que me der na telha. Espero conseguir ajudar vocês e que realmente curtam um conteúdo mais diferenciado aqui!
 
 Beijos de luz 💋
+
 *- satty.* 
 
 
