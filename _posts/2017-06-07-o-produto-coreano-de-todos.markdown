@@ -16,7 +16,7 @@ tags:
 ---
 
 [IMG_3530-07-06-17-10-03.JPG](/uploads/IMG_3530-07-06-17-10-03.JPG)
-Vem ler minha resenha sobre o produto coreano mais legal que eu conheci na minha vida!
+Minha primeira resenha de produto, me sinto a rainha da blogayrinhas.
 
 *"Oi meninas, turru boum?"* E aí meus pãezinhos, como vocês estão?
 
