@@ -11,7 +11,7 @@ tags:
 - pet
 ---
 
-[IMG_3562-07-06-17-11-39-1.JPG](/uploads/IMG_3562-07-06-17-11-39-1.JPG)
+![IMG_3562-07-06-17-11-39-1.JPG](/uploads/IMG_3562-07-06-17-11-39-1.JPG)
 Porquê em casa quem tem mais coisas e mimos são os gatos, não os humanos.
 
 Quem tem gato já deve saber que gato **AMA** água corrente e em movimento. Eu já tive gatos que subiam nas pias pra tenta beber água e outros que empurravam com as patinhas os potes de água, pra que ela ficasse balançando e aí sim bebessem. A razão disso segundo os especialistas da MJTMG *(Mariana Já Teve Muitos Gatos)* é que gatos são seres peculiares e excêntricos que não apreciam coisas simples.
