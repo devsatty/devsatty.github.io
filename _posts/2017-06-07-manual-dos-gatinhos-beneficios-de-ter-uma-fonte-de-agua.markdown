@@ -44,7 +44,7 @@ O legal da MagiCat é que é um design que eles inventaram de "torneira mágica"
 
 Eu conversei com o pessoal da CatMyPet e eles me deram um cupom de desconto chamado SATTY que vocês tem 5% de desconto no site deles aqui: https://www.catmypet.com/. Sabem o que isso quer dizer? VÃO LOGO COMPRAR A FONTE DOS SEUS BICHINHOS!
 
-Espero que isso tenha ajuda e principalmente informado vocês, viu?
+Espero que isso tenha ajudado e principalmente informado vocês, viu?
 
 Lambeijos 💋
 
