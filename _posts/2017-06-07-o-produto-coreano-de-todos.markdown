@@ -30,19 +30,19 @@ TÁ CHEGA DE ENROLAÇÃO E SUSPENSE!
 
 O produto que quero fazer uma resenha hoje é o **Egg Pore Silky Smooth Balm** da marca coreana **Tony Moly**. Marca esta inclusive que junto com a Etude House me fazem querer comprar apenas pela embalagem sempre muito fofinha. Um exemplo de embalagem fofinha da marca é o próprio primer que vou falar, ele vem como um ovo dourado. 
 
-[IMG_3530-07-06-17-10-03.JPG](/uploads/IMG_3530-07-06-17-10-03.JPG)
+![IMG_3530-07-06-17-10-03.JPG](/uploads/IMG_3530-07-06-17-10-03.JPG)
 
 Há um tempo atrás diziam que ele vinha com uma semente e você podia plantar e *blábláblá*. Vou te dizer que nunca vi semente. Eu já devo ter ACABADO com uns 5 desse durante a minha vida e nenhum veio com semente, talvez eu que tenha me fodido e dado azar, mas é a vida.
 
 O importante aqui é o produto. Ele é um produto branquinho e veio bem cheio, a foto é do meu que já está acabando. **CENAS FORTES DE DOR E SOFRIMENTO COM MEU PRODUTO FAVORITO ACABANDO**.
 
-[IMG_3531-07-06-17-10-03.JPG](/uploads/IMG_3531-07-06-17-10-03.JPG)
+![IMG_3531-07-06-17-10-03.JPG](/uploads/IMG_3531-07-06-17-10-03.JPG)
 
 Ele não tem PRIMER no nome, na verdade ele tem balm - que é tipo uma "manteiga" ou algo assim. E de fato, comparado com outros primers que já testei, como os da marca smashbox, ele é tem uma textura bem "cremosa" - a textura dele me lembra bastante a do **Porefessional** da **Benefit**.
 
 Falando no Porefessional, existem várias e várias resenhas comparando os dois porquê como disse acima, eles são bem parecidos! Pra mim o Egg Pore vence porquê eu sinto que ele hidrata mais a minha pele e pelo custo-benefício. E talvez seja tudo coisa da minha cabeça, mas eu sempre tive a impressão de que o Porefessional, que o produto em si tem uma corzinha meio bege, deixava um rastro de cor no meu rosto, enquanto o Egg Pore não faz isso. Talvez seja porquê tenho o tom de pele de uma pessoa morta, mas isso a gente releva. Pra mim, entre os dois, o vencedor sem dúvida é o Egg Pore.
 
-[IMG_3533-07-06-17-10-03.JPG](/uploads/IMG_3533-07-06-17-10-03.JPG)
+![IMG_3533-07-06-17-10-03.JPG](/uploads/IMG_3533-07-06-17-10-03.JPG)
 [IMG_3532-07-06-17-10-03.JPG](/uploads/IMG_3532-07-06-17-10-03.JPG)
 
 Pra mostrar bem a "eficiência" dele eu tirei essas fotos das minhas mãos. Na de cima, eu passei bem nessa parte de cima da mão e pode ver que na área você vê bem menos dos "porinhos" e linhas da minha mão. Isso no rosto parece uma massa corrida dos deuses que tira todos os seus pequenos buraquinhos e imperfeições deixando a pele incrível pra maquiagem, aprece um blur do Photoshop na vida real. Na foto de baixo não tem produto algum, e você pode ver bem mais detalhes da pele.
