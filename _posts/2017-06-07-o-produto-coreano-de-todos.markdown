@@ -47,13 +47,13 @@ Falando no Porefessional, existem várias e várias resenhas comparando os dois 
 
 Pra mostrar bem a "eficiência" dele eu tirei essas fotos das minhas mãos. Na de cima, eu passei bem nessa parte de cima da mão e pode ver que na área você vê bem menos dos "porinhos" e linhas da minha mão. Isso no rosto parece uma massa corrida dos deuses que tira todos os seus pequenos buraquinhos e imperfeições deixando a pele incrível pra maquiagem, aprece um blur do Photoshop na vida real. Na foto de baixo não tem produto algum, e você pode ver bem mais detalhes da pele.
 
-Por fim, não posso falar como é incrível e maravilhoso essa belezinha. Você pode comprá-lo no Ebay, mas eu não recomendaria por medo de falsificações. Existem vários sites especializados em produtos coreanos, eu indico o http://w2beauty.com/. Lá eles tem esse produto e muitos outros.
+Por fim, não posso falar como é incrível e maravilhoso essa belezinha. Você pode comprá-lo no [Ebay](http://www.ebay.com/), mas eu não recomendaria por medo de falsificações. Existem vários sites especializados em produtos coreanos, eu indico o [W2Beauty](http://w2beauty.com/). Lá eles tem esse produto e muitos outros.
 
 Enfim, espero que tenham gostado do meu primeiro post bem *blogayrinha* vou trazer bem mais reviews deste tipo e de jogos, livros, filmes e o que me der na telha. Espero conseguir ajudar vocês e que realmente curtam um conteúdo mais diferenciado aqui!
 
 Beijos de luz 💋
 
-*- satty.* 
+*-satty* 
 
 
 
