@@ -30,7 +30,7 @@ Algumas informações técnicas sobre essa fonte em questão: ela é 110V, a tom
 
 O mais legal dessa fonte pra mim é que ela tem capacidade pra **MUITA** água, e então não precisamos ficar enchendo ela toda hora, posso viajar tranquila e sei que meus gatinhos não ficarão sem água. O sistema de filtração é ao mesmo tempo algo bom e algo ruim, o bom é que realmente mantém a água limpa da melhor maneira para consumo e o ruim é que tem um formato específico que você precisa ficar meio "escravo" comprando, mas é barato e o tempo pra troca é alto. O único ponto negativo é: **eu não acho pra comprar no Brasil**. 
 
-As duas vezes que comprei essa fonte foi nos Estados Unidos. A primeira vez eu comprei quando estava em viagem e trouxe na mala, da segunda vez eu usei um site chamado **Qwintry**, que faz um *shopping service* dos Estados Unidos pro Brasil, ou seja, eles enviam para cá QUALQUER ITEM. Adeus limitação por marcas que não enviam pro Brasil. Eu pretendo fazer um vídeo no canal explicando tudo sobre o site, aguardem, mas enquanto isso podem ir conhecendo já, né?
+As duas vezes que comprei essa fonte foi nos Estados Unidos. A primeira vez eu comprei quando estava em viagem e trouxe na mala, da segunda vez eu usei um site chamado **[Qwintry](https://de.qwintry.com/br/referral/2f6b4dfc)**, que faz um *shopping service* dos Estados Unidos pro Brasil, ou seja, eles enviam para cá QUALQUER ITEM. Adeus limitação por marcas que não enviam pro Brasil. Eu pretendo fazer um vídeo no canal explicando tudo sobre o site, aguardem, mas enquanto isso podem ir conhecendo já, né?
 
 ![IMG_9243-07-06-17-11-46.JPG](/uploads/IMG_9243-07-06-17-11-46.JPG)
 
@@ -42,11 +42,11 @@ Antes de mais nada, queria dizer que minha bicha designer de interior GRITOU qua
 
 O legal da MagiCat é que é um design que eles inventaram de "torneira mágica" que essa torneirinha que estão vendo na imagem NÃO é instalada, ela meio que flutua, meio Criss Angel encontra Mister M. Enfim, ela vem com motor silencioso, sistema anti-choque e tudo que há de bom. Uma vantagem sobre a Drinkwell é que ela não necessita da troca ou substituição de filtro, ela acompanha mais de 1kg de pedras naturais de rio, que purifica e mantém a água fresquinha.
 
-Eu conversei com o pessoal da CatMyPet e eles me deram um cupom de desconto chamado SATTY que vocês tem 5% de desconto no site deles aqui: https://www.catmypet.com/. Sabem o que isso quer dizer? VÃO LOGO COMPRAR A FONTE DOS SEUS BICHINHOS!
+Eu conversei com o pessoal da [CatMyPet](https://www.catmypet.com/) e eles me deram um cupom de desconto chamado SATTY que vocês tem 5% de desconto no site deles! Sabem o que isso quer dizer? VÃO LOGO COMPRAR A FONTE DOS SEUS BICHINHOS!
 
 Espero que isso tenha ajudado e principalmente informado vocês, viu?
 
 Lambeijos 💋
 
-*-satty.*
+*-satty*
 
