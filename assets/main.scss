@@ -55,6 +55,10 @@ body{
     border-top: none !important;
 }
 
+.post-list > a{
+	vertical-align: middle;
+}
+
 .image{
     height: 50vh;
     width: 100%;
@@ -755,8 +759,7 @@ body{
     }
     
     .post-list > a{
-        margin: 0;
-	vertical-align: middle;
+        margin: 0;	
     }
     
     .post-list li{
