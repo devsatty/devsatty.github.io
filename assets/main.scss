@@ -294,7 +294,7 @@ p.parceria.email{
     background: #FAFAFA;    
 }
 
-.post-list li:not(:first-of-type){
+.post-list li:not(.first){
     min-height: 180px;
     max-height: 180px;
 }
