@@ -1,5 +1,5 @@
 ---
-title: O melhor produto coreano de TODOS!
+title: O melhor produto de TODOS!
 date: 2017-06-07 12:18:00 Z
 categories:
 - beleza
