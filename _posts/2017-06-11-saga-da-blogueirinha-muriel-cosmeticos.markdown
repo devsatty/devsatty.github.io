@@ -1,6 +1,6 @@
 ---
 title: 'Saga da Blogueirinha: Muriel Cosméticos.'
-date: 2017-06-11 21:46:00 Z
+date: 2017-06-11 21:54:00 Z
 categories:
 - cabelo
 - muriel cosméticos
@@ -29,15 +29,15 @@ A linha COMPLETA contém **shampoo** (com sistema few-poo que não agride o cabe
 
 ![IMG_3783-11-06-17-07-28.JPG](/uploads/IMG_3783-11-06-17-07-28.JPG)
 
-A segunda é a **Medicin Capilar**, novamente vemos uma embalagem fofíssima que é pra simular uma pílula e cores vermelho/branco que associamos com hospitais, enfermeiras e etc *(ou pelo menos eu associo né?)*. O shampoo e o condicionador vem em 250ml e a máscara você pode escolher entra 300ml e 500 ml e o tônico vem em 100ml.
+A segunda é a **Medicin Capilar**, novamente vemos uma embalagem fofíssima que é pra simular uma pílula e cores vermelho/branco que associamos com hospitais, enfermeiras e etc *(ou pelo menos eu associo né?)*. O shampoo e o condicionador vem em 250ml e a máscara você pode escolher entre a de 300ml ou a de 500 ml, já o tônico vem em 100ml.
 
-Essa linha de tratamento PESADO da marca, ela é a linha de tratamento *(como o próprio nome sugere, duuuur)* ou como eles dizem: "para cabelos em sofrimento. Os ingredientes principais da linha são o **magnésio**, **ácido salicílico**, **colágeno hidrolisado**, **whey protein** e **d-pantenol**. Quero acrescentar que a linha toda é a coisa **MAIS CHEIROSA DO MUNDO**! Eu simplesmente me apaixonei e fiquei uma noite toda com o pote de máscara aberto cheirando, isso é um fato real. Me julguem.
+Essa linha de tratamento PESADO da marca, ela é a linha de tratamento *(como o próprio nome sugere, duuuur)* ou como eles dizem: "para cabelos em sofrimento". Os ingredientes principais da linha são o **magnésio**, **ácido salicílico**, **colágeno hidrolisado**, **whey protein** e **d-pantenol**. Quero acrescentar que a linha toda é a coisa **MAIS CHEIROSA DO MUNDO**! Eu simplesmente me apaixonei e fiquei uma noite toda com o pote da máscara aberto, cheirando, isso é um fato real. Me julguem.
 
 ![IMG_3784-11-06-17-07-28.JPG](/uploads/IMG_3784-11-06-17-07-28.JPG)
 
-Por último mas não menos importante, temos a **Maionese Capilar**, de todas essa tem a embalagem mais GENIAL! Só, por favor, não confunda maionese real com a capilar, combinado? Ela é uma máscara que vem com 350g de produto, com duas versões: a normal e a light, a minha no caso é a light. Isso me lembra a marca Moroccanoil que tem a versão light dos sus produtos porquê a linha normal "pesa" em alguns cabelos *(como foi o meu caso, pra quem quer saber)*. Uma curiosidade é que ANOS atrás tinha uma notícia que a cantora Avril Lavigne passava maionese no cabelos, eu nunca passei, mas sempre quis tentar e aparentemente chegou minha oportunidade!
+Por último mas não menos importante, temos a **Maionese Capilar**, de todas as linhas, pra mim, essa tem a embalagem mais GENIAL! Só, por favor, não confunda maionese real com a capilar, combinado? Ela é uma máscara que vem com 350g de produto, com duas versões: a normal e a light, a minha no caso é a light. Isso me lembra a marca Moroccanoil que tem a versão light dos seus produtos porquê a linha normal "pesa" em alguns cabelos *(como foi o meu caso, pra quem quer saber)*. Uma curiosidade é que ANOS atrás tinha uma notícia que a cantora Avril Lavigne passava maionese no cabelos, eu nunca passei, mas sempre quis tentar e aparentemente chegou minha oportunidade!
 
-Bom o produto foi formulado como uma máscara, em especial para quem está em transição capilar. Pra quem não sabe o que é transição capilar, é quando você tinha o cabelo cacheado/encaracolado aí alisou e agora quer voltar, pra isso o cabelo precisa passar por essa "transição", desintoxicar e principalmente ganhar todos os seus nutrientes de volta. Então a hidratação deste produto é BEM forte e completa! Os principais ingredientes são: **óleos vegetais** *(como rícino, abacate e girassol)* e a **proteína de ovo**.
+Bom o produto foi formulado como uma máscara, em especial para quem está em transição capilar. Pra quem não sabe o que é transição capilar, é quando você tinha o cabelo cacheado/encaracolado aí alisou e agora quer voltar, pra isso o cabelo precisa passar por essa "transição", desintoxicar e principalmente ganhar todos os seus nutrientes de volta. Então esse produto tem muita potência de nutrição, pois é feito de vários óleos naturais pra quem está passando por essa fase! Os principais ingredientes são: **óleos vegetais** *(como rícino, abacate e girassol)* e a **proteína de ovo**.
 
 É isso pessoal, espero que tenham gostado! Eu pretendo fazer com cada linha de forma separada **UM MÊS** de teste, usando direitinho como manda a marca! Aí em mais ou menos um mês já deve ter uma resenha do que achei de cada uma, prometo! Vocês já usaram algum desses produtos? O que acharam? Tem algum que querem testar?
 
