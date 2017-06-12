@@ -35,7 +35,7 @@ E aí vamos para **[Code: Vain](https://www.youtube.com/watch?v=H3kkuwab8JQ)**, 
 
 ![IMG_3811-11-06-17-10-10.JPG](/uploads/IMG_3811-11-06-17-10-10.JPG)
 
-Pra quem não sabe, eu sou super fã de Senhor dos Anéis. SUPER. FÃ. Foi divulgado o trailer de **[Shadow of War](https://www.youtube.com/watch?v=4a0ld3fKKNs)** que já havia sido anunciado no começo do ano. O jogo é o percursor de **Shadows of Mordor**, ganhador do Game Awards de 2014 de melhor jogo, se passando no universo de Senhor dos Anéis. O trailer é focado na expansão do jogo, mostrando suas novas funcionalidades como por exemplo: mostrando que você pode lutar ao lado do seu inimigo e que pode fazer seus inimigos lutarem entre si. O jogo sairá para **PS4**, **Xbox One** e **Windows PC** no dia **10 de Outubro**.
+Pra quem não sabe, eu sou super fã de Senhor dos Anéis. SUPER. FÃ. Foi divulgado o trailer de **[Shadow of War](https://www.youtube.com/watch?v=4a0ld3fKKNs)** que já havia sido anunciado no começo do ano. O jogo é o precursor de **Shadows of Mordor**, ganhador do Game Awards de 2014 de melhor jogo, se passando no universo de Senhor dos Anéis. O trailer é focado na expansão do jogo, mostrando suas novas funcionalidades como por exemplo: mostrando que você pode lutar ao lado do seu inimigo e que pode fazer seus inimigos lutarem entre si. O jogo sairá para **PS4**, **Xbox One** e **Windows PC** no dia **10 de Outubro**.
 
 ![IMG_3807-11-06-17-10-10.JPG](/uploads/IMG_3807-11-06-17-10-10.JPG)
 
