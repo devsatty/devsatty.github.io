@@ -1,6 +1,6 @@
 ---
 title: 'Destaques da E3 2017: Microsoft.'
-date: 2017-06-12 23:13:00 Z
+date: 2017-06-11 23:13:00 Z
 categories:
 - Games
 - E3
