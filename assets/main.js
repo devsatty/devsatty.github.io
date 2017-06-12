@@ -76,6 +76,8 @@ $(document).ready(function(){
         $('.mostrarmais').on('click', function(){
             
           $('.wrapper .home .post-list').css({'max-height':'none'});
+            $('.fade').hide();
+            $('.mostrarmais').hide();
             
         });
         
