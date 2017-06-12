@@ -17,9 +17,9 @@ tags:
 ---
 
 ![19075383_1385258708233512_2068587005_n.jpg](/uploads/19075383_1385258708233512_2068587005_n.jpg)
-Os jogos que eu mais gostei, e que vou ficar ansiosa pra ver da conferência de 2017 da Microsoft na E3.
+Os jogos que eu mais gostei e que vou ficar ansiosa pra ver da conferência de 2017 da Microsoft na E3.
 
-Olá, gente bonita e pra frentex! Hoje, dia 11 de Junho, tivemos a apresentação da Microsoft NA E3, evento de games que ocorre anualmente em Los Angeles. Lá, eles falaram do seu novo console Xbox One X e apresentaram **MUITOS** jogos - apresentação bem diferente da feita ano passado, que não agradou tanto os gamers de plantão. Mas, eu não vim falar de console, que será menor que o Xbox One, será lançado dia 7 de Novembro e custará $499 dólares *(ou um rim aqui no Brasil)*. Eu vim falar dos jogos! Então, vamos nessa...
+Olá, gente bonita e pra frentex! Hoje, dia 11 de Junho, tivemos a apresentação da Microsoft na E3, evento de games que ocorre anualmente em Los Angeles. Lá, eles falaram do seu novo console Xbox One X e apresentaram **MUITOS** jogos - apresentação bem diferente da feita ano passado, que não agradou tanto os gamers de plantão. Mas, eu não vim falar de console, que será menor que o Xbox One, será lançado dia 7 de Novembro e custará $499 dólares *(ou um rim aqui no Brasil)*. Eu vim falar dos jogos! Então, vamos nessa...
 
 ![IMG_3808-11-06-17-10-10.JPG](/uploads/IMG_3808-11-06-17-10-10.JPG)
 
