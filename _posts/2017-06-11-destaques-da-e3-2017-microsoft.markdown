@@ -31,7 +31,7 @@ E aí vamos para **[Code Vein](https://www.youtube.com/watch?v=H3kkuwab8JQ)**, o
 
 ![IMG_3805-11-06-17-10-10-ef8627.JPG](/uploads/IMG_3805-11-06-17-10-10-ef8627.JPG)
 
-**[State of Decay 2](https://www.youtube.com/watch?v=a0qgL-6w22M)** também foi anunciado, e como exclusivo. Ele é um jogo de zumbis, o segundo aposta no multiplayer em mundo aberto *(que parece ser a aposta da geração!)* com a idéia extremamente **The Walking Dead** consistindo em sobreviver, criar um local seguro, uma comunidade, salvar as pessoas e etc. O jogo em si me chamou muita atenção porquê eu adoro essa temática, mas especialmente pela parte de "management" que eu vi acontecendo no abrigo que você cria no jogo. Esperamos ansiosos o **segundo trimestre de 2018** para jogarmos, exclusivamente no **Xbox One** e **Windows 10**.
+**[State of Decay 2](https://www.youtube.com/watch?v=a0qgL-6w22M)** também foi anunciado, e como exclusivo. Ele é um jogo de zumbis, o segundo aposta no multiplayer em mundo aberto *(que parece ser a aposta da geração!)* com a idéia extremamente **The Walking Dead** consistindo em sobreviver, criar um local seguro, uma comunidade, salvar as pessoas e etc. O jogo em si me chamou muita atenção porquê eu adoro essa temática, mas especialmente pela parte de "management" que eu vi acontecendo no abrigo que você cria no jogo. Esperamos ansiosos o **segundo trimestre de 2018** para jogarmos, exclusivamente no **Xbox One** e **PC**.
 
 ![IMG_3811-11-06-17-10-10.JPG](/uploads/IMG_3811-11-06-17-10-10.JPG)
 
