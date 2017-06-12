@@ -27,7 +27,7 @@ O primeiro jogo que vou falar não poderia ser outro, apesar de já ter sido con
 
 ![IMG_3809-11-06-17-10-10.JPG](/uploads/IMG_3809-11-06-17-10-10.JPG)
 
-E aí vamos para **[Code: Vain](https://www.youtube.com/watch?v=H3kkuwab8JQ)**, o jogo é da Bandai Namco e como é de praxe pra empresa, o jogo vem no melhor estilo anime, alegrando meu coração de otaka fedida. O jogo vem com uma proposta mais dark, com uma pegada meio "Dark Souls". Eu gosto de vários títulos da Bandai, em especial a série Tales Of, então posso dizer que boto fé e estou ansiosa para o seu lançamento! Poderemos testar essa gracinha em **2018**, mas sem maiores informações. Ele vai estar disponível pra **Xbox One**, **Xbox One X**, **PS4** e **PC**.
+E aí vamos para **[Code Vein](https://www.youtube.com/watch?v=H3kkuwab8JQ)**, o jogo é da Bandai Namco e como é de praxe pra empresa, o jogo vem no melhor estilo anime, alegrando meu coração de otaka fedida. O jogo vem com uma proposta mais dark, com uma pegada meio "Dark Souls". Eu gosto de vários títulos da Bandai, em especial a série Tales Of, então posso dizer que boto fé e estou ansiosa para o seu lançamento! Poderemos testar essa gracinha em **2018**, mas sem maiores informações. Ele vai estar disponível pra **Xbox One**, **Xbox One X**, **PS4** e **PC**.
 
 ![IMG_3805-11-06-17-10-10-ef8627.JPG](/uploads/IMG_3805-11-06-17-10-10-ef8627.JPG)
 
