@@ -1,6 +1,6 @@
 ---
 title: 'Saga da Blogueirinha: Muriel Cosméticos.'
-date: 2017-06-11 21:43:00 Z
+date: 2017-06-11 21:44:00 Z
 categories:
 - cabelo
 - muriel cosméticos
