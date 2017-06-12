@@ -76,7 +76,7 @@ $(document).ready(function(){
         $('.mostrarmais').on('click', function(){
             
             if($(window).width() <= 480){
-                $('.wrapper .home .post-list').css({'max-height':'none');
+                $('.wrapper .home .post-list').css({'max-height':'none'});
            }
             
             var tt = ($('.post-link').length * 320) / 2;
