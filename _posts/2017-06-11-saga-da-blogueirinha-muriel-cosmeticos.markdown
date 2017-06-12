@@ -1,6 +1,6 @@
 ---
 title: 'Saga da Blogueirinha: Muriel Cosméticos.'
-date: 2017-06-11 21:54:00 Z
+date: 2017-06-11 21:55:00 Z
 categories:
 - cabelo
 - muriel cosméticos
@@ -42,4 +42,5 @@ Bom o produto foi formulado como uma máscara, em especial para quem está em tr
 É isso pessoal, espero que tenham gostado! Eu pretendo fazer com cada linha de forma separada **UM MÊS** de teste, usando direitinho como manda a marca! Aí em mais ou menos um mês já deve ter uma resenha do que achei de cada uma, prometo! Vocês já usaram algum desses produtos? O que acharam? Tem algum que querem testar?
 
 Beijos hidratados 💋
+
 *-satty.*
