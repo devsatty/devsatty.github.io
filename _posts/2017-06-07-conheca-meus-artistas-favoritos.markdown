@@ -1,5 +1,5 @@
 ---
-title: Conheça meus artistas favoritos.
+title: Conheça meus ilustradores favoritos.
 date: 2017-06-07 15:39:00 Z
 categories:
 - arte
