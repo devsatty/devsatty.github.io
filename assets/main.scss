@@ -493,7 +493,7 @@ p.parceria.email{
     margin-bottom: 15px;
 }
 
-#modalParceiros .box:first-of-type{
+#modalParceiros .box:not(:last-of-type){
     border-bottom: 1px solid #DDD;
     padding-bottom: 10px;
 }
