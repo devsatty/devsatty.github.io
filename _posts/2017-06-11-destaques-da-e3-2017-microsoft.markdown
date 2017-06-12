@@ -23,7 +23,7 @@ Olá, gente bonita e pra frentex! Hoje, dia 11 de Junho, tivemos a apresentaçã
 
 ![IMG_3808-11-06-17-10-10.JPG](/uploads/IMG_3808-11-06-17-10-10.JPG)
 
-O primeiro jogo que vou falar não poderia ser outro, apesar de já ter sido confirmado bem antes, tivemos o trailer do famigerado e esperado **Life is Strange 2** *(o nome do jogo na verdade é [Life is Strange: Before the Storm](https://www.youtube.com/watch?v=9RhS60P_Ugs))*. Como o nome sugere o jogo é um prólogo de Life is Strange, onde vemos uma Chloe morena e uma Rachel viva. Minha primeira reação foi *"ME MATA DE TANTO ME FUDER AAAAAAAAAAAAAAAAA"*, a hype é real. O jogo chegará para **PS4**, **PC** e **Xbox One**, mas terá melhorias no **Xbox One X**. Ele terá **três episódios** e o primeiro chega dia **31 de Agosto** *(quase um presente de aniversário pra mim, valeu Deus, você é 🔝).*
+O primeiro jogo que vou falar não poderia ser outro, apesar de já ter sido confirmado bem antes, tivemos o trailer do famigerado e esperado **Life is Strange 2** *(o nome do jogo na verdade é [Life is Strange: Before the Storm](https://www.youtube.com/watch?v=9RhS60P_Ugs))*. Como o nome sugere o jogo é um prólogo de Life is Strange, onde vemos uma Chloe morena e uma Rachel viva. Minha primeira reação foi *"ME MATA DE TANTO ME FUDER AAAAAAAAAAAAAAAAA"*, ou seja, a hype é real. O jogo chegará para **PS4**, **PC** e **Xbox One**, mas terá melhorias no **Xbox One X**. Ele terá **três episódios** e o primeiro chega dia **31 de Agosto** *(quase um presente de aniversário pra mim, valeu Deus, você é 🔝).*
 
 ![IMG_3809-11-06-17-10-10.JPG](/uploads/IMG_3809-11-06-17-10-10.JPG)
 
