@@ -39,7 +39,7 @@ Pra quem não sabe, eu sou super fã de Senhor dos Anéis. SUPER. FÃ. Foi divul
 
 ![IMG_3807-11-06-17-10-10.JPG](/uploads/IMG_3807-11-06-17-10-10.JPG)
 
-**[Anthem](https://www.youtube.com/watch?v=Ah0uexzHrJo)** é a novidade da Bioware. O gameplay é IMPRESSIONANTE. Você é um humano, que trabalha como mercenário, num planeta Terra bem hostil - para sobreviver você usa "armaduras" especiais chamadas **Javelin**. É um mundo aberto compartilhado onde você pode fazer **grupos de até 4 pessoas**, outra coisa bem ambiciosa é que falaram que o mundo se "renova" mudando e sofrendo com elementos climáticos e possivelmente catastróficos. Ah! E tem **classes** de Javelins também, vimos claramente um **flanker** e um **tank** no vídeo de gameplay que foi apresentado. Anthem chega ao **Xbox One**, **Xbox One X**, **PC** e ao **PS4** em **2018**.
+**[Anthem](https://www.youtube.com/watch?v=Ah0uexzHrJo)** é a novidade da Bioware. O gameplay é IMPRESSIONANTE. Você é um humano, que trabalha como mercenário, num planeta Terra bem hostil - para sobreviver você usa um tipo de exoesqueleto chamado **Javelin**. É um mundo aberto compartilhado onde você pode fazer **grupos de até 4 pessoas**, outra coisa bem ambiciosa é que falaram que o mundo se "renova" mudando e sofrendo com elementos climáticos e possivelmente catastróficos. Ah! E tem **classes** de Javelins também, vimos claramente um **flanker** e um **tank** no vídeo de gameplay que foi apresentado. Anthem chega ao **Xbox One**, **Xbox One X**, **PC** e ao **PS4** em **2018**.
 
 ![IMG_3810-11-06-17-10-10.JPG](/uploads/IMG_3810-11-06-17-10-10.JPG)
 
