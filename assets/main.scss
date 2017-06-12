@@ -149,6 +149,11 @@ h1.page-heading{
     margin-bottom: 80px;
 }
 
+a.post-link:first-of-type{
+	    display: block !important;
+    width: calc(100% - 110px);
+}
+
 
 .social-feed-element{
     height: 50%;
@@ -624,7 +629,6 @@ body::-webkit-scrollbar {
 }
 
 .post-list li.first {
-    display: block !important;
     width: 100%;
     margin: 10px auto 30px auto !important;
     padding: 0 15px 0 0;
