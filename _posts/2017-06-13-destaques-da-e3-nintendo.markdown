@@ -22,7 +22,7 @@ Olá gente linda, bonita, com desodorante e pra frentex! Hoje, dia 13 de Junho, 
 
 ![thumbnail_IMG_3886-13-06-17-02-46.jpg](/uploads/thumbnail_IMG_3886-13-06-17-02-46.jpg)
 
-Vamos começar com o jogo que me fez gritar *"Nintendo, você é dona do meu cu!"*, será que vocês adivinham qual é? Bom, é o novo **[Fire Embelm Warriors](https://www.youtube.com/watch?v=R8Ia_PCKPpY)**. Pra começar vai envolver vários heróis dos outros jogos, como **Fire Emblem Awakening** e **Fire Emblem Fates**. Ele provavelmente virá naquele estilo de hordas de inimigo como a série Warriors, quem jogou qualquer um deles ou o **Hyrule Warriors** já deve ter uma noção de como deve ser. Aguardamos felizes pois o jogo sairá **ainda este ano**, previsto para o **outono americano** (ou seja, **nossa primavera**). 
+Vamos começar com o jogo que me fez gritar *"Nintendo, você é dona do meu cu!"*, será que vocês adivinham qual é? Bom, é o novo **[Fire Emblem Warriors](https://www.youtube.com/watch?v=R8Ia_PCKPpY)**. Pra começar vai envolver vários heróis dos outros jogos, como **Fire Emblem Awakening** e **Fire Emblem Fates**. Ele provavelmente virá naquele estilo de hordas de inimigo como a série Warriors, quem jogou qualquer um deles ou o **Hyrule Warriors** já deve ter uma noção de como deve ser. Aguardamos felizes pois o jogo sairá **ainda este ano**, previsto para o **outono americano** (ou seja, **nossa primavera**). 
 
 ![thumbnail_IMG_3884-13-06-17-02-46.jpg](/uploads/thumbnail_IMG_3884-13-06-17-02-46.jpg)
 
