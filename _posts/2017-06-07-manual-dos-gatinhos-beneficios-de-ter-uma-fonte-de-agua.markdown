@@ -30,7 +30,7 @@ Algumas informações técnicas sobre essa fonte em questão: ela é 110V, a tom
 
 O mais legal dessa fonte pra mim é que ela tem capacidade pra **MUITA** água, e então não precisamos ficar enchendo ela toda hora, posso viajar tranquila e sei que meus gatinhos não ficarão sem água. O sistema de filtração é ao mesmo tempo algo bom e algo ruim, o bom é que realmente mantém a água limpa da melhor maneira para consumo e o ruim é que tem um formato específico que você precisa ficar meio "escravo" comprando, mas é barato e o tempo pra troca é alto. O único ponto negativo é: **eu não acho pra comprar no Brasil**. 
 
-As duas vezes que comprei essa fonte foi nos Estados Unidos. A primeira vez eu comprei quando estava em viagem e trouxe na mala, da segunda vez eu usei um site chamado **[Qwintry](https://de.qwintry.com/br/referral/2f6b4dfc)**, que faz um *shopping service* dos Estados Unidos pro Brasil, ou seja, eles enviam para cá QUALQUER ITEM. Adeus limitação por marcas que não enviam pro Brasil. Eu pretendo fazer um vídeo no canal explicando tudo sobre o site, aguardem, mas enquanto isso podem ir conhecendo já, né?
+As duas vezes que comprei essa fonte foi nos Estados Unidos. A primeira vez eu comprei quando estava em viagem e trouxe na mala, da segunda vez eu usei um site chamado **[Qwintry](http://bit.ly/Mariana_Ferreira)**, que faz um *shopping service* dos Estados Unidos pro Brasil, ou seja, eles enviam para cá QUALQUER ITEM. Adeus limitação por marcas que não enviam pro Brasil. Eu pretendo fazer um vídeo no canal explicando tudo sobre o site, aguardem, mas enquanto isso podem ir conhecendo já, né?
 
 ![IMG_9243-07-06-17-11-46.JPG](/uploads/IMG_9243-07-06-17-11-46.JPG)
 
