@@ -1,6 +1,6 @@
 ---
 title: 'Destaques da E3: Nintendo.'
-date: 2017-06-13 19:28:00 Z
+date: 2017-06-13 19:35:00 Z
 categories:
 - Games
 - E3
