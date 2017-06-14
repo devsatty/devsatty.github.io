@@ -1,7 +1,6 @@
 ---
 title: O melhor produto coreano!
 date: 2017-06-14 19:00:00 Z
-published: false
 categories:
 - beleza
 - maquiagem
@@ -23,7 +22,7 @@ Hoje quis trazer um review de um produto que é barato e eu estou usando há **A
 
 Como muitos de vocês sabem (ou não sabem) eu estou no meio cosplayer/otaku já faz bem uns 11 anos. Cosméticos coreanos/japoneses não são coisas novas e de outro mundo pra gente. Nós já acompanhávamos cosplayers de fora, muitas vezes da Coréia ou Japão (duh!) e alguns deles nos mostravam como faziam suas maquiagens. E a gente, como era fã e meio inocente achava que TUDO - lê-se: a cara perfeita e sem marcas, as pessoas super branquinhas e etc - era apenas responsabilidade da maquiagem. Vamos combinar que boa parte realmente é, uma boa maquiagem e uma boa iluminação já é 90% do truque, mas enfim... Eu sei que desde bem nova eu já comprava bastante desses produtos pra testar os "milagres" que via eles fazendo nos outros.
 
-Muitos foram decepções, até porquê hoje mais sábia (pra não dizer mais velha) eu sei que os produtos são formulados de forma diferente em países diferentes, vocês sabiam disso? Se comprarem uma base da MAC aqui no Brasil e a MESMA base nos Estados Unidos a formulação será **levemente** diferente. A razão pra isto é que cada país tem um clima, e as pessoas desses países tem tendências a ter peles diferentes e então, para que os produtos se adaptem mais facilmente, a formula é diferente, mas como eu disse: só um pouquinho.
+Muitos foram decepções, até porquê hoje mais sábia *(pra não dizer mais velha)* eu sei que os produtos são formulados de forma diferente em países diferentes, vocês sabiam disso? Se comprarem uma base da MAC aqui no Brasil e a MESMA base nos Estados Unidos a formulação será **levemente** diferente. A razão pra isto é que cada país tem um clima, e as pessoas desses países tem tendências a ter peles diferentes e então, para que os produtos se adaptem mais facilmente, a formula é diferente, mas como eu disse: só um pouquinho.
 
 TÁ CHEGA DE ENROLAÇÃO E SUSPENSE! 
 
