@@ -1,24 +1,23 @@
 ---
 title: 'Dia dos namorados: a Logitech foi meu mozão ❤'
-date: 2017-06-15 19:00:00 Z
-published: false
+date: 2017-06-15 19:04:00 Z
 ---
 
 ![Logitech@EBGames2014_001.jpg](/uploads/Logitech@EBGames2014_001.jpg)
 No dia dos namorados não recebi flores, não recebi chocolate, mas recebi um kit gamer incrível da Logitech *(e houveram boatos de que eu estava na pior!)*.
 
-Olá mozões e mozonas do meu Brasil! Como vocês estão? Hoje vim contar um pouco pra vocês do presentão que ganhei no meu dia dos namorados! Estava eu curtindo meu dia dos namorados no twitter aproveitando com todos os meus namorados e namoradas, enquanto recebia todo amor e carinho dos meus 5 gatos, quando **TÃDÃ!** chega um pacote enorme!
+Olá mozões e mozonas do meu Brasil! Como vocês estão? Hoje vim contar um pouco pra vocês do presentão que ganhei no meu dia dos namorados! Estava eu curtindo meu dia dos namorados no twitter aproveitando com todos os meus namorados e namoradas, enquanto recebia todo amor e carinho dos meus 5 gatos, quando de repente... **TÃDÃ!** chega um pacote enorme!
 
-Era um pacote da [Logitech](https://www.facebook.com/Logitech.BR) com um kit gamer **F-O-D-A**, e imagina se não fiquei feliz, Logitech tá de parabéns, sabe como fazer uma mulher feliz! Pra quem não conhece a Logitech é uma empresa internacional que já está no mercado desde 1981, onde ela começou criando mouses - depois de todo esse tempo a gama de produtos deles está muito maior com teclados, webcam, headsets e MUITO MAIS! Resumindo: é uma das melhores marcas do mercado de periféricos, pode confiar.
+Era um pacote da [Logitech](https://www.facebook.com/Logitech.BR) com um kit gamer **F-O-D-A**, e imagina se não fiquei feliz! Logitech tá de parabéns, sabe como fazer uma mulher feliz! Pra quem não conhece a Logitech é uma empresa internacional que já está no mercado desde 1981, onde ela começou criando mouses - depois de todo esse tempo a gama de produtos deles está muito maior com teclados, webcam, headsets e MUITO MAIS! Resumindo: é uma das melhores marcas do mercado de periféricos, pode confiar.
 *(ps. mil desculpas pelas fotos, tentei fazer algo conceitual com luzinhas, mas acho que talvez tenha saído um tico cagado)*
 
 ![thumbnail_IMG_3982-13-06-17-07-27.jpg](/uploads/thumbnail_IMG_3982-13-06-17-07-27.jpg)
 
-A primeira coisa que vi quando abri a caixa foi essa belezinha, a **[webcam c920](https://www.logitech.com/pt-br/product/hd-pro-webcam-c920?crid=34)**. Essa é a melhor webcam do mercado, não é brincadeira e nem "fanboyismo" pode procurar. Todo mundo usa essa webcam. Se você quer começar a streamar ou até mesmo começar um canal, esta webcam é a mais indicada! Ela filma em **Full HD 1080p** e tem um controle INCRÍVEL das configurações de imagem.
+A primeira coisa que vi quando abri a caixa foi essa belezinha, a **[webcam c920](https://www.logitech.com/pt-br/product/hd-pro-webcam-c920?crid=34)**. Essa é a melhor webcam do mercado, não é brincadeira e nem "fanboyismo" pode procurar. Todo mundo usa essa webcam. Se você quer começar a streamar ou até mesmo começar um canal, esta webcam é a mais indicada! Ela filma em **Full HD 1080p** e tem um controle manual INCRÍVEL das configurações de imagem.
 
 ![thumbnail_IMG_3984-13-06-17-07-27.jpg](/uploads/thumbnail_IMG_3984-13-06-17-07-27.jpg)
 
-Segunda coisa maravilhosa que eu recebi foi o **[headset G633 Artemis Spectrum](http://gaming.logitech.com/pt-br/product/g633-7-1-surround-sound-gaming-headset)** *(amei o nome, chique demais - aproveitei todo meu cursinho de inglês)*, primeira coisa é que ele tem **luzinha**, pra mim, tem luzinha e acende colorido já ganha todos os pontos do mundo. Além disso e mais importante tem som **Dolby Surround 7.1** e drivers mágicos pra que o som seja super fiel, além de que ele é bem apertadinho e tem um isolamento acústico MUITO BOM. O fone dele é dobrável e muito bom também. Pra jogar esse fone é **10/10**!
+Segunda coisa maravilhosa que eu recebi foi o **[headset G633 Artemis Spectrum](http://gaming.logitech.com/pt-br/product/g633-7-1-surround-sound-gaming-headset)** *(amei o nome, chique demais - aproveitei todo meu cursinho de inglês)*, primeira coisa é que ele tem **luzinha**, pra mim, tem luzinha colorida já ganha todos os pontos do mundo. E mais importante que isso é que tem som **Dolby Surround 7.1** e drivers mágicos pra que o som seja super fiel, além de que ele é bem apertadinho e tem um isolamento acústico MUITO BOM. O microfone dele é dobrável e muito bom também, ou seja pra jogar esse fone é **10/10**!
 
 ![thumbnail_IMG_3983-13-06-17-07-27.jpg](/uploads/thumbnail_IMG_3983-13-06-17-07-27.jpg)
 
