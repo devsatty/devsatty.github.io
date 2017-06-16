@@ -1,6 +1,6 @@
 ---
 title: 'Destaques da E3: Sony.'
-date: 2017-06-16 19:00:00 Z
+date: 2017-06-16 19:02:00 Z
 categories:
 - Games
 - Sony
@@ -16,7 +16,7 @@ tags:
 - Days Gone
 ---
 
-![IMG_4013-14-06-17-01-22.JPG](/uploads/IMG_4013-14-06-17-01-22.JPG)
+![IMG_4012-14-06-17-01-22.JPG](/uploads/IMG_4012-14-06-17-01-22.JPG)
 Os destaques da empresa responsável pela Playstation, veja aqui os destaques da conferência da E3 2017 da Sony.
 
 **'CÊS PENSARAM QUE EU NÃO IA FALAR DE E3 HOJE, NÉ?**
