@@ -47,6 +47,8 @@ Pra mostrar bem a "eficiência" dele eu tirei essas fotos das minhas mãos. Na d
 
 Por fim, não posso falar como é incrível e maravilhoso essa belezinha. Você pode comprá-lo no [Ebay](http://www.ebay.com/), mas eu não recomendaria por medo de falsificações. Existem vários sites especializados em produtos coreanos, eu indico o [W2Beauty](http://w2beauty.com/). Lá eles tem esse produto e muitos outros.
 
+edit 1: O pessoal da [W2Beauty](http://w2beauty.com/) entrou em contato comigo após verem o post e me mandaram um cupom de desconto de 10%! Use o cupom **W2Mariana10** para ter 10% de descontos nas compras do site!
+
 Enfim, espero que tenham gostado do meu primeiro post bem *blogayrinha* vou trazer bem mais reviews deste tipo e de jogos, livros, filmes e o que me der na telha. Espero conseguir ajudar vocês e que realmente curtam um conteúdo mais diferenciado aqui!
 
 Beijos de luz
