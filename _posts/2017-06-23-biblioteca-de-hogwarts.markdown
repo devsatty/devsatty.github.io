@@ -1,7 +1,6 @@
 ---
 title: Biblioteca de Hogwarts.
 date: 2017-06-23 19:00:00 Z
-published: false
 categories:
 - harry potter
 - hogwarts
