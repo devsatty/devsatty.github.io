@@ -1,7 +1,6 @@
 ---
 title: Quadrinhos brasileiros!
-date: 2017-06-22 19:00:00 Z
-published: false
+date: 2017-06-22 20:40:00 Z
 categories:
 - Quadrinhos
 - Plumba
