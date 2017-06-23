@@ -1,6 +1,6 @@
 ---
 title: Guia para me stalkear corretamente.
-date: 2017-06-23 19:01:00 Z
+date: 2017-06-23 19:03:00 Z
 ---
 
 ![ezgif-2-46f4d08b78.gif](/uploads/ezgif-2-46f4d08b78.gif)
