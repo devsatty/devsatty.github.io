@@ -1,6 +1,6 @@
 ---
 title: Quadrinhos brasileiros!
-date: 2017-06-22 20:40:00 Z
+date: 2017-06-22 23:50:00 Z
 categories:
 - Quadrinhos
 - Plumba
@@ -30,7 +30,7 @@ A história tem sua personagem principal chamada Leona, ela junto com sua aprend
 
 O segundo HQ que vou falar já tem seu volume 1 e 2, e eu conheci na Comic Con Experience do ano passado. *[*Plumba](http://2minds.ws/Plumba/index.html)** vem por um caminho quase que oposto a Bruxa da Meia-Noite, com uma temática super colorida, no melhor estilo desenho animado/Steven Universe. A idéia era apenas ser um artbook, mas cresceu e hoje tem dois volumes lindos.
 
-A personagem principal é gente como a gente: ama quadrinhos, card games e etc. Ela vê um machucado MUITO irado, mas não tem dinheiro nem pra secar a lágrimas de tristeza por não poder comprá-lo. Aí começa sua aventura pra conseguir o bendito machado, o quadrinho em si mais parece um jogo! É muito legal e vale a pena conferir, você pode comprar os dois volumes [aqui](http://2minds.iluria.com/).
+A personagem principal é gente como a gente: ama quadrinhos, card games e etc. Ela vê um machado MUITO irado, mas não tem dinheiro nem pra secar a lágrimas de tristeza por não poder comprá-lo. Aí começa sua aventura pra conseguir o bendito machado, o quadrinho em si mais parece um jogo! É muito legal e vale a pena conferir, você pode comprar os dois volumes [aqui](http://2minds.iluria.com/).
 
 E vocês? Gostam de algum quadrinho nacional? Gostam de algum quadrinho que ninguém conhece? Me apresenta que eu adoraria conhecer!
 
