@@ -1,6 +1,6 @@
 ---
 title: Guia para me stalkear corretamente.
-date: 2017-06-19 01:35:00 Z
+date: 2017-06-23 19:01:00 Z
 ---
 
 ![ezgif-2-46f4d08b78.gif](/uploads/ezgif-2-46f4d08b78.gif)
@@ -30,3 +30,17 @@ Falando em redes pessoais, você também pode me **seguir** no **[Instagram](ins
 
 Depois temos a nossa queridinha **[página do Facebook](http://facebook.com/CanalPenseGeek)**. Lá você vai ter os melhores memes e tirinhas desta internet, conteúdo do canal exclusivo, pode ver meus cosplays e algo bem legal: é através de lá que faço meus sorteios *(inclusive está rolando um sorteando o livro do [Gabriel Picolo](https://www.facebook.com/GabrielPicoloArt/), Celestial, que você pode participar clicando [aqui](https://www.facebook.com/CanalPenseGeek/photos/a.208647549266371.52055.187952611335865/1070497823081335/?type=3&theater))* e já tiveram muitos outros sorteios, mais ou menos a cada mês tenho um presentinho novo pra vocês ❤
 
+![source (3).gif](/uploads/source%20(3).gif)
+
+Por "último" temos meu canal na **[Twitch](http://twitch.tv/PenseGeek)** lá você pode me seguir, e pedir pra receber as notificações de live. Lá é onde faço livestreams *(e se você não sabe o que é, é um "ao vivo" e temos um contato bem íntimo, bem de pertinho, bem de migos)*, você pode fazer donates e me ajudar muito pelo Paypal, Pagseguro ou Bits e também pode ser **subscriber** do canal e ganhar emotes exclusivos e mais alguns viadagens extras.
+
+Enfim, tem mais algumas coisinhas como a **[loja](http://pensegeek.youshopp.com.br/)**, onde você pode comprar camisetas, canecas e muitas coisas do canal. Todo ano mudamos de coleção, então não perde a chance da sua estampa favorita sumir! 
+
+Fora este sitezinho aqui que você está. Nele você encontra acesso a **T U D O** que falei aí em cima e um pouco mais como **minha agenda**, minha **caixa postal** e muito mais! Não esquece de dar uma olhadinha na barra de cima ali na página inicial! Ah, o posts aqui acontecem dia sim e dia não, na verdade, todo dia que não temos vídeo no canal *(assim você não sentem a minha falta!)*.
+
+Bom, acho que este post foi mais uma explicação pra vocês conhecerem um pouco mais das minhas redes, dos meus trabalhos e um pouco de tudo que faço na internet e entenderem as vantagens de acompanhar em cada cantinho! Todas essas coisas eu faço com o maior carinho e dedicação do mundo pra 
+vocês, então de coração, espero que aproveitem ao máximo!
+
+Beijinhos da titia que ama muito vocês 💋
+
+*-satty.*
