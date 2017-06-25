@@ -17,7 +17,7 @@ Eu estava pensando com meus botões *"meu deus, mariana, você faz muita coisa n
 
 O primeiro e o mais básico é o [**Youtube**](http://www.youtube.com/PenseGeek), inclusive tenho certeza que muita gente me conhece pelo canal. Lá tem vídeo **segunda**, **quarta** e **sábado** às **18h** de conteúdos variados, mas sempre com aquela pitadinha geek e pessoal. Se **inscrever** e **ativar o sininho** pra receber notificação ajuda MUITO! Claro que toda divulgação, compartilhamento, like e comentário também é SUPER bem-vindo!
 
-![source.gif](/uploads/source.gif)
+![twitter.gif](/uploads/twitter.gif)
 
 Falando em receber notificação, outro jeito bem fácil é seguindo o twitter **[Sininho da Satty](https://twitter.com/SininhoDaSatty)**. Você **segue** e **clica ali na roda dentada**, e clica para **ativar notificações**. Neste Twitter eu só coloco quando sai vídeo novo, então vocês podem seguir ele que seu celular não vai apitar às 3 da manhã por bobeira! É um jeito fácil de sempre receber o que posto, ou você pode colocar um despertador no seu celular... Você quem escolhe. *(estou pensando em postar lá quando estiver fazendo [streams](http://twitch.tv/PenseGeek) ou quando postar aqui no blog, o que acham? me digam nos comentários!)*
 
