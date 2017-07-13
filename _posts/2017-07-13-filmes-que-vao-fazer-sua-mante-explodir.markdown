@@ -1,5 +1,5 @@
 ---
-title: Filmes que vão fazer sua mante explodir.
+title: Filmes que vão fazer sua mente explodir.
 date: 2017-07-13 16:38:00 Z
 categories:
 - filme
