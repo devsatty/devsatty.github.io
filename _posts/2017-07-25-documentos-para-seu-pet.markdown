@@ -1,6 +1,6 @@
 ---
 title: Documentos para seu pet!
-date: 2017-07-25 14:29:00 Z
+date: 2017-07-25 14:31:00 Z
 categories:
 - gatos
 - cachorros
@@ -23,9 +23,9 @@ Pois bem, passando a vergonha alheia das minhas nóias sem sentido e voltando a 
 
 Lembra que eu disse que tinha uma segunda parte? Pois é. Outra coisa, desta vez mais "oficial", é que a maioria dos cartórios agora está oferecendo o *"identipet"* que é basicamente o RG do seu filho peludo. Ele será registrado, tem fotinho, tem tudo. De acordo com os cartórios as maiores razões para você fazer seu identipet são:
 
-* ● Em relação às viagens, repartições exigem a comprovação de posse e o registro comprova isso;
-● Ele também pode ajudar em caso de roubos ou fugas;
-● O registro ainda ajuda em disputas pela guarda do animal. *
+*1. Em relação às viagens, repartições exigem a comprovação de posse e o registro comprova isso;
+2. Ele também pode ajudar em caso de roubos ou fugas;
+3. O registro ainda ajuda em disputas pela guarda do animal.*
 
 O valor do documento é R$42,34 e demora mais ou menos 20 minutos para ser feito.
 
