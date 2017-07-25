@@ -22,9 +22,11 @@ Pois bem, passando a vergonha alheia das minhas nóias sem sentido e voltando a 
 ![carteirinha-de-emergencia-Tudo-Sobre-Gatos-2.png](/uploads/carteirinha-de-emergencia-Tudo-Sobre-Gatos-2.png)
 
 Lembra que eu disse que tinha uma segunda parte? Pois é. Outra coisa, desta vez mais "oficial", é que a maioria dos cartórios agora está oferecendo o *"identipet"* que é basicamente o RG do seu filho peludo. Ele será registrado, tem fotinho, tem tudo. De acordo com os cartórios as maiores razões para você fazer seu identipet são:
+
 *- Em relação às viagens, repartições exigem a comprovação de posse e o registro comprova isso;
 - Ele também pode ajudar em caso de roubos ou fugas;
 - O registro ainda ajuda em disputas pela guarda do animal.*
+
 O valor do documento é R$42,34 e demora mais ou menos 20 minutos para ser feito.
 
 ![identipe.jpg](/uploads/identipe.jpg)
