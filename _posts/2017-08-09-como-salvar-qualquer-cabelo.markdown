@@ -1,6 +1,6 @@
 ---
 title: Como salvar QUALQUER cabelo!
-date: 2017-08-09 15:51:00 Z
+date: 2017-08-09 15:52:00 Z
 categories:
 - beleza
 - máscara capilar
@@ -23,9 +23,10 @@ Certo, vamos ao básico. Todos os cabelos precisam de três coisas: **hidrataç�
 ![cronograma-capilar.png](/uploads/cronograma-capilar.png)
 
 Então assim você pode ver a tabela correta pro seu cabelo. Perceba que no caso de cabelos saudáveis tem apenas um tratamento por semana, enquanto os mais danificados já tem três. Eu resolvi fazer o primeiro cronograma porquê meu cabelo precisava MUITO de reconstrução, especialmente nas pontas pela descoloração. Como eu sei disso? Fiz o famigerado **teste da porosidade**, que você faz da seguinte maneira: 
-*1. Coloca um recipiente com água;
+
+1. Coloca um recipiente com água;
 2. Tira um fio do seu cabelo;
-3. Coloca o fio no cabelo e aguarda o resultado.*
+3. Coloca o fio no cabelo e aguarda o resultado.
 
 ![e63cf73d87bd397247df3e7acec9433a.jpg](/uploads/e63cf73d87bd397247df3e7acec9433a.jpg)
 
