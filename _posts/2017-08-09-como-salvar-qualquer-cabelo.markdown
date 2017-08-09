@@ -1,6 +1,6 @@
 ---
 title: Como salvar QUALQUER cabelo!
-date: 2017-08-09 15:52:00 Z
+date: 2017-08-09 15:54:00 Z
 categories:
 - beleza
 - máscara capilar
@@ -30,13 +30,13 @@ Então assim você pode ver a tabela correta pro seu cabelo. Perceba que no caso
 
 ![e63cf73d87bd397247df3e7acec9433a.jpg](/uploads/e63cf73d87bd397247df3e7acec9433a.jpg)
 
-Estou fazendo esse processo com o [Kit Be(m)dita Ghee da Lola Cosmetics](https://www.beleza10.com.br/cronograma-capilar-bemdita-ghee-lola-cosmetics). A Lola Cosmetics é incrível por ser vegan, totalmente contra crueldade animal - o que é algo que eu adoro e é sempre um *plus* (ela fala inglês ela). 
+Estou fazendo esse processo com o [Kit Be(m)dita Ghee da Lola Cosmetics](https://www.beleza10.com.br/cronograma-capilar-bemdita-ghee-lola-cosmetics). A Lola Cosmetics é incrível por ser vegan, totalmente contra crueldade e testes animais - o que é algo que eu adoro e é sempre um *plus* (ela fala inglês ela). 
 
 O kit é algo bem prático porquê ele vem a quantidade boa *(350g de cada máscara)* para pelo menos dois meses de cronograma capilar e evita desperdício ou dos produtos estragarem. Além de que você já compra 3 produtos ao invés de sair procurando máscaras diferentes e muitas vezes misturar muitas químicas com o cabelo sensível pode ser um problema. 
 
 Eu quis escrever essa dica/review APÓS usar o Be(m)dita Ghee e posso afirmar que: **FOI UMA DAS MELHORES COISAS QUE COMPREI EM 2017**. Sério, esse kit fez milagre com meu cabelo e eu sinto a diferença toda vez que uso uma das etapas, elas já vem turbinadas com óleo de coco e vegetais e muitos outros ativos e benefícios - todos eles naturais! Ah, mais uma coisinha, como tempo é dinheiro, a máscara não precisa agir por muito tempo como algumas máscaras, você só precisa deixar agir entre **3 e 5 minutos**! Não haveriam palavras o suficiente pra descrever meu amor e a qualidade dos produtos. Se você tem alguma amiga, namorada, irmã ou mãe e quer dar um presente pode ter CERTEZA que o kit é um presente **INCRÍVEL**.
 
-**#DicaDaTitia**: O pessoal do [Beleza10](https://www.beleza10.com.br/) me deu um cupom de desconto de 5% para você comprar **QUALQUER COISA** no site deles (inclusibe esse kit da Be(m)dita Ghee). Só digitar no campo de cupom de desconto **PenseGeek**. 
+**#DicaDaTitia**: O pessoal do [Beleza10](https://www.beleza10.com.br/) me deu um cupom de desconto de 5% para você comprar **QUALQUER COISA** no site deles (inclusive esse kit da Be(m)dita Ghee). Só digitar no campo de cupom de desconto **PenseGeek**. 
 
 ![Untitled 1-d27642.jpg](/uploads/Untitled%201-d27642.jpg)
 
