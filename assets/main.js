@@ -1,14 +1,5 @@
 $(document).ready(function(){
     
-    
-        $($('.post-list li')[0]).addClass('first');
-        
-        setTimeout(function(){
-            $('.post-list').show();
-            $('.mostrarmais').css({'display' : 'block'});
-            $('#center').css({'display' : 'block'});
-            $('.dev').css({'display' : 'block'});
-        }, 600);
         
         $(".youmax").youmax({
             apiKey:"AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw",
@@ -115,13 +106,7 @@ $(document).ready(function(){
             }, 'slow');
         });
       
-        $('.hamburg').click(function(){
-          $('.navbar').slideToggle();
-        })
-       
-       if($('body').width() < 500){
-           $('.post-list li.first').removeClass('first');
-       }
+        
        
        
         $('body').on('click', '.social-feed-element', function(){
