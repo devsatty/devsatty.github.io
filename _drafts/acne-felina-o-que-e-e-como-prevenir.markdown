@@ -37,7 +37,7 @@ Existem três passos que podem te ajudar a prevenir a acne felina em casa:
 
 O plástico é muito porosos (cheio de buracos) e é mais fácil para as bactérias se proliferarem por ali, assim quando seu gato for tomar água ou comer, as bactérias vão diretamente nele. No vidro e na cerâmica não tem vez para as bactérias, e você pode comprar lá na [Agrosolo](https://www.agrosolo.com.br/) que tem 5% de desconto com o cupom **PENSEGEEK** ;)
 
-**- Ajude seu gatinho a tomar banho **
+**- Ajude seu gatinho a tomar banho**
 
 Como eu falei antes o queixo é um lugar muito difícil para ele limpar sozinho, então sempre que puder, ajude ele com isso. Lave com água oxigenada 10 (aquela para machucados), e com a ajuda de algodão ou cotonete, faça movimentos leves. 
 
