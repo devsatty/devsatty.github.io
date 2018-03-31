@@ -1,6 +1,21 @@
 ---
 title: Qual é a melhor máscara capilar nacional?
 date: 2018-03-31 15:42:00 -03:00
+categories:
+- beleza
+- cabelo
+tags:
+- máscaras capilares
+- cronograma capilar
+- hidratação
+- nutrição
+- reconstrução
+- lola cosmetics
+- salon line
+- forever liss
+- muriel cosmeticos
+- low poo
+- no poo
 ---
 
 ![capa-879dab.jpg](/uploads/capa-879dab.jpg)
@@ -52,7 +67,7 @@ A **[Morte Súbita](https://www.dermabox.com.br/mascara-morte-subita-450g)** é 
 
 **Minha experiência:** Gosto muito, o cheiro maravilhoso e cumpre o que promete. Eu aprovo e recomendo para a etapa de nutrição do seu cronograma. 
 
-[linha medicin capilar - studio hair muriel cosméticos.JPG](/uploads/linha%20medicin%20capilar%20-%20studio%20hair%20muriel%20cosm%C3%A9ticos.JPG)
+![linha medicin capilar - studio hair muriel cosméticos.JPG](/uploads/linha%20medicin%20capilar%20-%20studio%20hair%20muriel%20cosm%C3%A9ticos.JPG)
 
 A **Medicin Capilar** é uma máscara de Nutrição/Reconstrução da Studio Hair que também não testa em animais e é liberada para low e no poo. 
 
