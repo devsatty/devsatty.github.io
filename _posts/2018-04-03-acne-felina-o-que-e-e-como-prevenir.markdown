@@ -13,7 +13,7 @@ tags:
 ---
 
 ![capa.jpg](/uploads/capa.jpg)
-*Sabia que os gatinhos também desenvolvem problemas de pele como os humanos? Nesse post eu vou falar o que é Acne Felina e como prevenir. *
+Sabia que os gatinhos também desenvolvem problemas de pele como os humanos? Nesse post eu vou falar o que é Acne Felina e como prevenir.
 
 Olá gateiros de plantão! Vamos falar sobre a saúde do seu gatinho?
 
