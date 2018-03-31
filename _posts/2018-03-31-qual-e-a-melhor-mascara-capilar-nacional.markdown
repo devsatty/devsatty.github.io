@@ -1,6 +1,6 @@
 ---
 title: Qual é a melhor máscara capilar nacional?
-date: 2018-04-05 18:00:00 -03:00
+date: 2018-03-31 15:42:00 -03:00
 categories:
 - beleza
 - cabelo
