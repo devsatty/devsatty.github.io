@@ -1,7 +1,6 @@
 ---
 title: Atypical vale a pena?
 date: 2018-04-01 18:00:00 -03:00
-published: false
 categories:
 - indicação
 - serie
